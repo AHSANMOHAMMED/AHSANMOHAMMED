@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Ahsan Mohammed, a final-year software engineering student at SLIIT (Sri Lanka Institute of Information Technology) in Sri Lanka. Passionate about full-stack web development, AI-integrated apps, and building scalable solutions for real-world problems like hospitality and e-commerce.
+Hi there! 👋 I'm Ahsan Mohammed, a second -year software engineering student at SLIIT (Sri Lanka Institute of Information Technology) in Sri Lanka. Passionate about full-stack web development, AI-integrated apps, and building scalable solutions for real-world problems like hospitality and e-commerce.
 
 ### My Journey
 - Started with Java basics, now diving into full-stack with MERN and Spring Boot projects.
