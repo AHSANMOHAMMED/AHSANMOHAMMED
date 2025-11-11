@@ -1,20 +1,63 @@
-# Welcome to My Profile
+# AHSAN MOHAMMED
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18)
+![Matrix Animation](https://example.com/matrix-animation.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+MERN+Applications;%F0%9F%A4%96+AI+Menu+Extraction+Specialist;%F0%9F%8F%A8+Hospitality+Tech+Innovation+Leader;%F0%9F%8C%8D+Multilingual+UX+Designer;%F0%9F%94%A5+50%25+Operational+Efficiency+Expert;%E2%9C%A8+Open+for+Collaborations+%26+Internships)](https://git.io/typing-svg)
+## Typing SVG
+![Typing SVG](https://example.com/typing.svg)
 
-## Introduction
+## Profile Info
 
-Welcome to my GitHub profile! I'm passionate about building scalable, user-friendly applications using modern technologies.
+- Name: AHSAN MOHAMMED  
+- Location: Your Location  
+- Bio: A passionate developer who values the importance of code quality, user experience, and continuous learning.  
 
-...
+## Developer DNA
 
-## Projects
+```plaintext
+// DNA Code Block  
+const developerDNA = {  
+  skills: ['JavaScript', 'Python', 'React', 'Node.js'],  
+  interests: ['Web Development', 'Open Source', 'AI'],  
+  hobbies: ['Blogging', 'Photography', 'Music'],  
+};
+```  
 
-### Current Work
-🟢 Production
+## Connect with me
 
-...
+- [LinkedIn](https://www.linkedin.com/in/ahsanmohammed)  
+- [Twitter](https://twitter.com/ahsan_mohammed)  
+- [Email](mailto:ahsan@example.com)
 
-For more information about my work, feel free to reach out!
+## Tech Arsenal
+
+- Languages: JavaScript, Python, C++  
+- Frameworks: React, Node.js, Express  
+- Tools: Git, Docker, VS Code
+
+## Featured Projects
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Project 1    | Description of project 1    | [Link](https://github.com/ahsanmohammed/project1) |
+| Project 2    | Description of project 2    | [Link](https://github.com/ahsanmohammed/project2) |
+
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanmohammed&show_icons=true&hide_title=false)
+
+## Roadmap
+- [ ] Feature 1  
+- [ ] Feature 2  
+- [ ] Feature 3
+
+## Achievements
+
+- Achieved XYZ certification.  
+- Contributed to notable open-source projects.  
+
+## Collaboration
+If you want to collaborate on something, feel free to reach out!
+
+---
+
+## Footer
+
+© 2025 AHSAN MOHAMMED - All Rights Reserved.
