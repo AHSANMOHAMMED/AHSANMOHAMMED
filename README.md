@@ -30,7 +30,7 @@ const Ahsan = {
   focus: {
     primary: "MERN Stack Development",
     secondary: "AI Integration",
-    domain: "Hospitality &amp; Hotel Management Systems"
+    domain: "Hospitality & Hotel Management Systems"
   }
 };
 ```
@@ -95,7 +95,7 @@ Mobile & Tools
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHSANMOHAMMED&theme=radical&hide_border=true" alt="Streak"/>
   <br/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=redical&hide_border=true" alt="Activity Graph"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=radical&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
