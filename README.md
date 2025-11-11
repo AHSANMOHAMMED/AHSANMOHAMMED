@@ -1,12 +1,14 @@
 <div align="center">
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18)
+![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlign=50&descAlignY=62&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+MERN+Applications;%F0%9F%A4%96+AI+Menu+Extraction+Specialist;%F0%9F%8F%A8+Hospitality+Tech+Innovation+Leader;%F0%9F%8C%8D+Multilingual+UX+Designer;%F0%9F%94%A5+50%25+Operational+Efficiency+Expert;%E2%9C%A8+Open+for+Collaborations+%26+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🚀+Building+Scalable+MERN+Applications;🤖+AI+Menu+Extraction+Specialist;🏨+Hospitality+Tech+Innovation+Leader;🌍+Multilingual+UX+Designer;🔥+50%25+Operational+Efficiency+Expert;✨+Open+for+Collaborations+%26+Internships)](https://git.io/typing-svg)
 
-<img src="https://github.com/AHSANMOHAMMED.png" width="200" style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0 0 30px rgba(97, 218, 251, 0.4);"/>
+<img src="https://github.com/AHSANMOHAMMED.png" width="200" style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0 0 30px rgba(97, 218, 251, 0.4);" alt="Ahsan Mohammed"/>
+
 
 ### 👨‍💻 **Ahsan Mohammed** *(he/him)*
+
 **🎓 2nd Year Software Engineering Student**  
 **🏛️ SLIIT (Sri Lanka Institute of Information Technology)**  
 **🌍 Colombo, Sri Lanka 🇱🇰 | Class of 2026**
@@ -14,6 +16,7 @@
 **🎯 Specialization:** *MERN Stack + AI Integration*  
 **💼 Proven Impact:** *50% Ops Reduction | 100+ Active Users*  
 **🔥 Mission:** *Revolutionizing Hospitality Tech*
+
 
 </div>
 
@@ -90,6 +93,7 @@ const AhsanMohammed = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -104,11 +108,15 @@ const AhsanMohammed = {
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### AI & Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -143,13 +151,15 @@ const AhsanMohammed = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true&background=0d1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61DAFB&line=61DAFB&point=ffffff" alt="Activity Graph"/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/AHSANMOHAMMED/AHSANMOHAMMED/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -160,19 +170,19 @@ const AhsanMohammed = {
 <div align="center">
 
 **☁️ Cloud Architecture Mastery**  
-![Progress](https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB)
+![Progress](https://progress-bar.dev/75/?scale=100&title=AWS%20/%20GCP&width=500&color=61DAFB&suffix=%)
 
 **🤖 Advanced AI Integration**  
-![Progress](https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35)
+![Progress](https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=500&color=FF6B35&suffix=%)
 
 **📱 Mobile Development Excellence**  
-![Progress](https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5)
+![Progress](https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=500&color=0095D5&suffix=%)
 
 **🌟 Open Source Leadership**  
-![Progress](https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248)
+![Progress](https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=500&color=47A248&suffix=%)
 
 **💼 Industry Experience**  
-![Progress](https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2)
+![Progress](https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=500&color=1DA1F2&suffix=%)
 
 </div>
 
@@ -211,16 +221,20 @@ const AhsanMohammed = {
 ---
 
 ### 🌟 **Daily Inspiration**
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 👁️ **Profile Analytics**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AHSANMOHAMMED&style=for-the-badge&color=61DAFB)
-![Followers](https://img.shields.io/github/followers/AHSANMOHAMMED?style=for-the-badge&color=0077B5)
+![Followers](https://img.shields.io/github/followers/AHSANMOHAMMED?style=for-the-badge&color=0077B5&label=Followers)
+![Stars](https://img.shields.io/github/stars/AHSANMOHAMMED?style=for-the-badge&color=FFD700&label=Total%20Stars)
 
 ---
 
 ✨ *"Code is poetry; culture is the rhythm. Together, they create digital symphonies that change the world."* ✨
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=120&section=footer&animation=twinkling)
+
 
 </div>
