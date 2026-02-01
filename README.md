@@ -160,32 +160,32 @@ const AhsanMohammed = {
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
-
----
-
+" alt="Progress"/>
+---" alt="Progress"/>
+" alt="Progress"/>
 ## 🎯 **2025-2026 Roadmap**
 
 <div align="center">
 
 **☁️ Cloud Architecture Mastery**
 
-![Progress](https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB)
+<img src="https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=500&color=61DAFB" alt="Cloud Architecture Progress"/>
 
 **🤖 Advanced AI Integration**
 
-![Progress](https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35)
+<img src="https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=500&color=FF6B35" alt="AI Integration Progress"/>
 
 **📱 Mobile Development Excellence**
 
-![Progress](https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5)
+<img src="https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=500&color=0095D5" alt="Mobile Development Progress"/>
 
 **🌟 Open Source Leadership**
 
-![Progress](https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248)
+<img src="https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=500&color=47A248" alt="Open Source Progress"/>
 
 **💼 Industry Experience**
 
-![Progress](https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2)
+<img src="https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=500&color=1DA1F2" alt="Industry Experience Progress"/>
 
 </div>
 
