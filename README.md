@@ -149,13 +149,13 @@ const AhsanMohammed = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb" alt="GitHub Activity Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
