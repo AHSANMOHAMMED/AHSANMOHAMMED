@@ -164,25 +164,20 @@ const AhsanMohammed = {
 
 <div align="center">
 
-**☁️ Cloud Architecture Mastery**
+**☁️ Cloud Architecture Mastery**  
+`████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **75%**
 
-<img src="https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=500&color=61DAFB" alt="Cloud Architecture Progress"/>
+**🤖 Advanced AI Integration**  
+`████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **70%**
 
-**🤖 Advanced AI Integration**
+**📱 Mobile Development Excellence**  
+`████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░` **85%**
 
-<img src="https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=500&color=FF6B35" alt="AI Integration Progress"/>
+**🌟 Open Source Leadership**  
+`████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **65%**
 
-**📱 Mobile Development Excellence**
-
-<img src="https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=500&color=0095D5" alt="Mobile Development Progress"/>
-
-**🌟 Open Source Leadership**
-
-<img src="https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=500&color=47A248" alt="Open Source Progress"/>
-
-**💼 Industry Experience**
-
-<img src="https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=500&color=1DA1F2" alt="Industry Experience Progress"/>
+**💼 Industry Experience**  
+`████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **45%**
 
 </div>
 
