@@ -7,6 +7,7 @@
 <img src="https://github.com/AHSANMOHAMMED.png" alt="Ahsan Mohammed" width="200" style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0 0 30px rgba(97, 218, 251, 0.4);"/>
 
 ### 👨‍💻 **Ahsan Mohammed** *(he/him)*
+
 **🎓 3rd Year Software Engineering Student**  
 **🏛️ SLIIT (Sri Lanka Institute of Information Technology)**  
 **🌍 Colombo, Sri Lanka 🇱🇰 | Class of 2026**
@@ -84,6 +85,7 @@ const AhsanMohammed = {
 <div align="center">
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -92,6 +94,7 @@ const AhsanMohammed = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -99,6 +102,7 @@ const AhsanMohammed = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database & Mobile
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
@@ -106,6 +110,7 @@ const AhsanMohammed = {
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### AI & Tools
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -119,7 +124,7 @@ const AhsanMohammed = {
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
+|:-------|:------------|:-----------|:-------|
 | 🏨 **[Hotel Management System](https://github.com/AHSANMOHAMMED/hotel-management)** | AI-powered hotel booking with menu extraction & 50% ops reduction | MERN, GridFS, OpenAI | 🟢 Production |
 | 🍽️ **[AI Menu System](https://github.com/AHSANMOHAMMED/restaurant-menu-mern)** | Image-to-menu AI parser for Sri Lankan cuisine | MERN, OpenAI, GridFS | 🟡 Beta |
 | 🛒 **[TrustySpot E-Commerce](https://github.com/AHSANMOHAMMED/trustyspot)** | Scalable e-commerce platform with secure authentication | Spring Boot, MySQL | 🟢 Live |
@@ -129,6 +134,7 @@ const AhsanMohammed = {
 | 🕌 **[Arabic College Platform](https://github.com/AHSANMOHAMMED/arabic-college-platform)** | Educational library with RBAC and PDF viewer | MERN, PDF.js, JWT | 🔄 WIP |
 
 ### 🔒 **Private Enterprise Projects**
+
 - **Enterprise Hotel API**: Scalable backend for hospitality chains
 - **AI Crop Analyzer**: ML yield prediction model (Team Project)
 - **Multilingual WhatsApp Bot**: Customer service automation
@@ -159,19 +165,24 @@ const AhsanMohammed = {
 
 <div align="center">
 
-**☁️ Cloud Architecture Mastery**  
+**☁️ Cloud Architecture Mastery**
+
 ![Progress](https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB)
 
-**🤖 Advanced AI Integration**  
+**🤖 Advanced AI Integration**
+
 ![Progress](https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35)
 
-**📱 Mobile Development Excellence**  
+**📱 Mobile Development Excellence**
+
 ![Progress](https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5)
 
-**🌟 Open Source Leadership**  
+**🌟 Open Source Leadership**
+
 ![Progress](https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248)
 
-**💼 Industry Experience**  
+**💼 Industry Experience**
+
 ![Progress](https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2)
 
 </div>
@@ -204,6 +215,7 @@ const AhsanMohammed = {
 **📍 Future Plans:** Dubai/Singapore Tech Scene (Post-2026)
 
 ### 📧 **Contact Methods**
+
 **💼 Business:** ahsanmohammed828@gmail.com  
 **💬 Quick Chat:** [WhatsApp](https://wa.me/+94725068682?text=Hi%20Ahsan!%20Let's%20collaborate!)  
 **🤝 Network:** [LinkedIn](https://www.linkedin.com/in/ahsan-m-s-m-135bb127b/)
@@ -211,9 +223,11 @@ const AhsanMohammed = {
 ---
 
 ### 🌟 **Daily Inspiration**
+
 > *"The only way to do great work is to love what you do."* - Steve Jobs
 
 ### 👁️ **Profile Analytics**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AHSANMOHAMMED&style=for-the-badge&color=61DAFB)
 ![Followers](https://img.shields.io/github/followers/AHSANMOHAMMED?style=for-the-badge&color=0077B5)
 
