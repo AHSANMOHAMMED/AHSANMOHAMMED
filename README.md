@@ -1,6 +1,6 @@
 <div align="center">
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18 "Ahsan Mohammed - Full-Stack Engineer")
+![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+MERN+Applications;%F0%9F%A4%96+AI+Menu+Extraction+Specialist;%F0%9F%8F%A8+Hospitality+Tech+Innovation+Leader;%F0%9F%8C%8D+Multilingual+UX+Designer;%F0%9F%94%A5+50%25+Operational+Efficiency+Expert;%E2%9C%A8+Open+for+Collaborations+%26+Internships)](https://github.com/DenverCoder1/readme-typing-svg)
 
@@ -149,13 +149,23 @@ const AhsanMohammed = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+<a href="https://github.com/AHSANMOHAMMED">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/AHSANMOHAMMED">
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<a href="https://github.com/AHSANMOHAMMED">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages"/>
+</a>
+<a href="https://github.com/AHSANMOHAMMED">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb" alt="GitHub Activity Graph"/>
+</a>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4 "GitHub Trophies")
+<a href="https://github.com/AHSANMOHAMMED">
+  <img src="https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -167,23 +177,23 @@ const AhsanMohammed = {
 
 **☁️ Cloud Architecture Mastery**
 
-![Progress](https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB)
+<img src="https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB" alt="Cloud Architecture Progress"/>
 
 **🤖 Advanced AI Integration**
 
-![Progress](https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35)
+<img src="https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35" alt="AI Integration Progress"/>
 
 **📱 Mobile Development Excellence**
 
-![Progress](https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5)
+<img src="https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5" alt="Mobile Development Progress"/>
 
 **🌟 Open Source Leadership**
 
-![Progress](https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248)
+<img src="https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248" alt="Open Source Progress"/>
 
 **💼 Industry Experience**
 
-![Progress](https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2)
+<img src="https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2" alt="Industry Experience Progress"/>
 
 </div>
 
@@ -235,6 +245,6 @@ const AhsanMohammed = {
 
 ✨ *"Code is poetry; culture is the rhythm. Together, they create digital symphonies that change the world."* ✨
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=150&section=footer&animation=twinkling "Footer Decoration")
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=150&section=footer&animation=twinkling)
 
 </div>
