@@ -1,13 +1,13 @@
 <div align="center">
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18)
+![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18 "Ahsan Mohammed - Full-Stack Engineer")
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+MERN+Applications;%F0%9F%A4%96+AI+Menu+Extraction+Specialist;%F0%9F%8F%A8+Hospitality+Tech+Innovation+Leader;%F0%9F%8C%8D+Multilingual+UX+Designer;%F0%9F%94%A5+50%25+Operational+Efficiency+Expert;%E2%9C%A8+Open+for+Collaborations+%26+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+MERN+Applications;%F0%9F%A4%96+AI+Menu+Extraction+Specialist;%F0%9F%8F%A8+Hospitality+Tech+Innovation+Leader;%F0%9F%8C%8D+Multilingual+UX+Designer;%F0%9F%94%A5+50%25+Operational+Efficiency+Expert;%E2%9C%A8+Open+for+Collaborations+%26+Internships)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<img src="https://github.com/AHSANMOHAMMED.png" width="200" style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0 0 30px rgba(97, 218, 251, 0.4);"/>
+<img src="https://github.com/AHSANMOHAMMED.png" alt="Ahsan Mohammed" width="200" style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0 0 30px rgba(97, 218, 251, 0.4);"/>
 
 ### 👨‍💻 **Ahsan Mohammed** *(he/him)*
-**🎓 2nd Year Software Engineering Student**  
+**🎓 3rd Year Software Engineering Student**  
 **🏛️ SLIIT (Sri Lanka Institute of Information Technology)**  
 **🌍 Colombo, Sri Lanka 🇱🇰 | Class of 2026**
 
@@ -69,11 +69,11 @@ const AhsanMohammed = {
 ## 🌐 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-m-s-m-135bb127b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahsanmohammed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ahsanmohammed)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94725068682?text=Hi%20Ahsan!%20Let's%20collaborate!)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohammed828@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHSANMOHAMMED)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahsanmohammed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahsanmohammed)
 
 </div>
 
@@ -143,13 +143,13 @@ const AhsanMohammed = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Programming Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4 "GitHub Trophies")
 
 </div>
 
@@ -211,7 +211,7 @@ const AhsanMohammed = {
 ---
 
 ### 🌟 **Daily Inspiration**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> *"The only way to do great work is to love what you do."* - Steve Jobs
 
 ### 👁️ **Profile Analytics**
 ![Profile Views](https://komarev.com/ghpvc/?username=AHSANMOHAMMED&style=for-the-badge&color=61DAFB)
@@ -221,6 +221,6 @@ const AhsanMohammed = {
 
 ✨ *"Code is poetry; culture is the rhythm. Together, they create digital symphonies that change the world."* ✨
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0077B5&height=150&section=footer&animation=twinkling "Footer Decoration")
 
 </div>
