@@ -160,6 +160,9 @@ const AhsanMohammed = {
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
+
+---
+
 ## 🎯 **2025-2026 Roadmap**
 
 <div align="center">
