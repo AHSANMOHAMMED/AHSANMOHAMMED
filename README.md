@@ -149,23 +149,15 @@ const AhsanMohammed = {
 
 <div align="center">
 
-<a href="https://github.com/AHSANMOHAMMED">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/AHSANMOHAMMED">
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<a href="https://github.com/AHSANMOHAMMED">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages"/>
-</a>
-<a href="https://github.com/AHSANMOHAMMED">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb" alt="GitHub Activity Graph"/>
-</a>
+<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=AHSANMOHAMMED&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
 
-<a href="https://github.com/AHSANMOHAMMED">
-  <img src="https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=61dafb&line=61dafb&point=61dafb" alt="GitHub Activity Graph"/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -177,23 +169,23 @@ const AhsanMohammed = {
 
 **☁️ Cloud Architecture Mastery**
 
-<img src="https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB" alt="Cloud Architecture Progress"/>
+![Progress](https://progress-bar.dev/75/?scale=100&title=AWS%20%2F%20GCP&width=400&color=61DAFB)
 
 **🤖 Advanced AI Integration**
 
-<img src="https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35" alt="AI Integration Progress"/>
+![Progress](https://progress-bar.dev/70/?scale=100&title=Machine%20Learning&width=400&color=FF6B35)
 
 **📱 Mobile Development Excellence**
 
-<img src="https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5" alt="Mobile Development Progress"/>
+![Progress](https://progress-bar.dev/85/?scale=100&title=Kotlin%20Expertise&width=400&color=0095D5)
 
 **🌟 Open Source Leadership**
 
-<img src="https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248" alt="Open Source Progress"/>
+![Progress](https://progress-bar.dev/65/?scale=100&title=Community%20Impact&width=400&color=47A248)
 
 **💼 Industry Experience**
 
-<img src="https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2" alt="Industry Experience Progress"/>
+![Progress](https://progress-bar.dev/45/?scale=100&title=Dubai%20Internship&width=400&color=1DA1F2)
 
 </div>
 
