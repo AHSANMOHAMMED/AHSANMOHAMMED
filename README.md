@@ -25,7 +25,7 @@
 const AhsanMohammed = {
     role: "Software Engineering Student",
     university: "SLIIT | Sri Lanka 🇱🇰",
-    graduation: "2026",
+    graduation: "2027",
     languages: ["English", "Sinhala", "Tamil"],
     
     techStack: {
