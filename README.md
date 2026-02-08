@@ -1,8 +1,6 @@
 <div align="center">
 
-![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=🚀%20Full-Stack%20Engineer%20%7C%20🤖%20AI%20Innovator%20%7C%20🏛️%20SLIIT%202026&descAlignY=70&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%9A%80+Building+Scalable+MERN+Applications;%F0%9F%A4%96+AI+Menu+Extraction+Specialist;%F0%9F%8F%A8+Hospitality+Tech+Innovation+Leader;%F0%9F%8C%8D+Multilingual+UX+Designer;%F0%9F%94%A5+50%25+Operational+Efficiency+Expert;%E2%9C%A8+Open+for+Collaborations+%26+Internships)](https://github.com/DenverCoder1/readme-typing-svg)
+![Matrix Header](https://capsule-render.vercel.app/api?type=matrix&color=0:61DAFB,100:0077B5&height=300&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Engineer%20|%20AI%20Innovator%20|%20SLIIT%202026&descAlignY=70&descSize=18)
 
 <img src="https://github.com/AHSANMOHAMMED.png" alt="Ahsan Mohammed" width="200" style="border-radius: 50%; border: 5px solid #61DAFB; box-shadow: 0 0 30px rgba(97, 218, 251, 0.4);"/>
 
@@ -15,6 +13,17 @@
 **🎯 Specialization:** *MERN Stack + AI Integration*  
 **💼 Proven Impact:** *50% Ops Reduction | 100+ Active Users*  
 **🔥 Mission:** *Revolutionizing Hospitality Tech*
+
+### 🚀 Tech Focus Areas
+
+```
+Building Scalable MERN Applications
+AI Menu Extraction Specialist
+Hospitality Tech Innovation Leader
+Multilingual UX Designer
+50% Operational Efficiency Expert
+Open for Collaborations & Internships
+```
 
 </div>
 
@@ -125,13 +134,13 @@ const AhsanMohammed = {
 
 | Project | Description | Tech Stack | Status |
 |:-------|:------------|:-----------|:-------|
-| 🏨 **[Hotel Management System](https://github.com/AHSANMOHAMMED/hotel-management)** | AI-powered hotel booking with menu extraction & 50% ops reduction | MERN, GridFS, OpenAI | 🟢 Production |
-| 🍽️ **[AI Menu System](https://github.com/AHSANMOHAMMED/restaurant-menu-mern)** | Image-to-menu AI parser for Sri Lankan cuisine | MERN, OpenAI, GridFS | 🟡 Beta |
-| 🛒 **[TrustySpot E-Commerce](https://github.com/AHSANMOHAMMED/trustyspot)** | Scalable e-commerce platform with secure authentication | Spring Boot, MySQL | 🟢 Live |
-| 🛍️ **[Grocery Management](https://github.com/AHSANMOHAMMED/grocery-shop)** | Local market product management system | HTML, CSS, MySQL | 🟢 Ready |
-| 📱 **[Farm Beam Mobile](https://github.com/AHSANMOHAMMED/farm-beam)** | Android farmer marketplace with crop predictions | Kotlin, Firebase, Room DB | 🟡 MVP |
-| 💆 **[WellnessWeave](https://github.com/AHSANMOHAMMED/wellnessweave)** | Health tracking with sensor integration | React Native, Spring Boot | 🔄 Active |
-| 🕌 **[Arabic College Platform](https://github.com/AHSANMOHAMMED/arabic-college-platform)** | Educational library with RBAC and PDF viewer | MERN, PDF.js, JWT | 🔄 WIP |
+| 🏨 **[Hotel Management](https://github.com/AHSANMOHAMMED/hotel-management)** | AI hotel booking system - 50% ops reduction | MERN, GridFS, OpenAI | 🟢 Production |
+| 🍽️ **[AI Menu System](https://github.com/AHSANMOHAMMED/restaurant-menu-mern)** | Image-to-menu AI parser | MERN, OpenAI | 🟡 Beta |
+| 🛒 **[TrustySpot](https://github.com/AHSANMOHAMMED/trustyspot)** | E-commerce with secure auth | Spring Boot, MySQL | 🟢 Live |
+| 🛍️ **[Grocery Shop](https://github.com/AHSANMOHAMMED/grocery-shop)** | Product management system | HTML, CSS, MySQL | 🟢 Ready |
+| 📱 **[Farm Beam](https://github.com/AHSANMOHAMMED/farm-beam)** | Farmer marketplace app | Kotlin, Firebase | 🟡 MVP |
+| 💆 **[WellnessWeave](https://github.com/AHSANMOHAMMED/wellnessweave)** | Health tracking platform | React Native, Spring | 🔄 Active |
+| 🕌 **[Arabic Platform](https://github.com/AHSANMOHAMMED/arabic-college-platform)** | Educational library + RBAC | MERN, PDF.js, JWT | 🔄 WIP |
 
 ### 🔒 **Private Enterprise Projects**
 
@@ -170,19 +179,19 @@ const AhsanMohammed = {
 <div align="center">
 
 **☁️ Cloud Architecture Mastery**  
-`████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **75%**
+![Progress](https://progress-bar.dev/75?title=Progress&width=500&color=61dafb)
 
 **🤖 Advanced AI Integration**  
-`████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **70%**
+![Progress](https://progress-bar.dev/70?title=Progress&width=500&color=61dafb)
 
 **📱 Mobile Development Excellence**  
-`████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░` **85%**
+![Progress](https://progress-bar.dev/85?title=Progress&width=500&color=61dafb)
 
 **🌟 Open Source Leadership**  
-`████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **65%**
+![Progress](https://progress-bar.dev/65?title=Progress&width=500&color=61dafb)
 
 **💼 Industry Experience**  
-`████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **45%**
+![Progress](https://progress-bar.dev/45?title=Progress&width=500&color=61dafb)
 
 </div>
 
