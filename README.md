@@ -202,7 +202,7 @@ const AhsanMohammed = {
 
 **Business:** ahsanmohammed828@gmail.com  
 **Chat:** [WhatsApp (+94 72 506 8682)](https://wa.me/94725068682)  
-**Network:** [LinkedIn Profile](https://www.linkedin.com/in/ahsan-m-s-m-135bb127b/)
+**Network:** [LinkedIn Profile](https://www.linkedin.com/in/ahsan-m-s-m-13048b324/)
 
 ---
 
