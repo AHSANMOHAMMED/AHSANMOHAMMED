@@ -42,6 +42,21 @@
 
 ---
 
+
+
+<div align="center">
+
+### ⚡ Quick Stats
+
+![Repos](https://img.shields.io/badge/Repos-21-06b6d4?style=for-the-badge&logo=github)
+![Total+Stars](https://img.shields.io/badge/Total_Stars-12-FFD700?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-19-06b6d4?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-612+-22c55e?style=for-the-badge&logo=github)
+![PRs+Merged](https://img.shields.io/badge/PRs_Merged-9-a78bfa?style=for-the-badge&logo=github)
+![Streak](https://img.shields.io/badge/Current_Streak-3_Days-f97316?style=for-the-badge&logo=github)
+
+</div>
+
 <!-- PINNED PROJECTS -->
 <div align="center">
 </div>
@@ -229,6 +244,44 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 
 <div align="center">
 </div>
+
+
+
+---
+
+<!-- GITHUB JOURNEY -->
+<div align="center">
+</div>
+
+### 🗺️ GitHub Journey
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📅 Milestones
+- 🚀 **First Repository** — Started building in 2024
+- 🏗️ **Doorli Launch** — Multi-role commerce platform
+- 🧾 **Retail Smart ERP** — Multi-tenant SaaS
+- 🌾 **Farmora** — Flutter marketplace
+- 🏢 **Enterprise OS** — Integration platform
+- 📊 **600+ Contributions** — Growing every day
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏆 What I'm Proud Of
+- 🛵 Built Doorli from zero to production
+- 📱 Shipped Flutter apps to real users
+- 🏗️ Designed multi-tenant architectures
+- ☁️ Deployed on Oracle Cloud Infrastructure
+- 🔧 Set up CI/CD with GitHub Actions
+- 📡 Implemented real-time WebSocket systems
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -510,6 +563,32 @@ Developer tooling and IDE experimentation focused on modern software-development
 <div align="center">
 </div>
 
+
+
+<div align="center">
+
+### 🎨 Skills at a Glance
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,python,java,kotlin&perline=5" />
+</a>
+</p>
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,postgres,mongodb,redis,firebase,kafka&perline=5" />
+</a>
+</p>
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite,express,graphql,elasticsearch,minio,oracle,flutter&perline=5" />
+</a>
+</p>
+
+</div>
+
 # 🎯 Featured Skills
 
 <div align="center">
@@ -644,6 +723,26 @@ Developer tooling and IDE experimentation focused on modern software-development
 <sub>
 
 > GitHub statistics are generated dynamically so the profile stays current without hard-coded numbers.
+
+<br/>
+
+<div align="center">
+
+### 🌆 GitHub Skyline — Your Contributions in 3D
+
+> Your contribution graph reimagined as a living 3D city skyline.
+
+[![Open Skyline](https://img.shields.io/badge/Open_Skyline-3D_View-06b6d4?style=for-the-badge&logo=github)](https://skyline3d.in/AHSANMOHAMMED)
+
+<sub>
+
+*Click the button above to explore your 3D contribution city. Each building represents a day of coding activity.*
+
+</sub>
+
+</div>
+
+
 
 </sub>
 
