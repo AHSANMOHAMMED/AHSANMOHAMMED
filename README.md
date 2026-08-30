@@ -10,7 +10,7 @@
 
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-AHSANMOHAMMED-181717?style=for-the-badge&logo=github)](https://github.com/AHSANMOHAMMED)
-[![Latest Commit](https://raw.githubusercontent.com/AHSANMOHAMMED/AHSANMOHAMMED/output/latest-commit.svg)](https://github.com/AHSANMOHAMMED/commits)
+[![Latest Commit](https://img.shields.io/github/last-commit/AHSANMOHAMMED/AHSANMOHAMMED?style=for-the-badge&label=Latest%20Commit&color=22c55e)](https://github.com/AHSANMOHAMMED/commits)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahsan_Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-m-s-m-13048b324/)
 [![Email](https://img.shields.io/badge/Email-ahsanmohammed828-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohammed828@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=AHSANMOHAMMED&style=for-the-badge&color=0ea5e9)](https://github.com/AHSANMOHAMMED)
@@ -28,7 +28,7 @@
 
 <!-- PINNED PROJECTS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=pin-projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
 </div>
 
 ## 📌 Pinned Projects
@@ -224,7 +224,7 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 
 ### 🚀 Featured Projects
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=60&section=projects-header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=60" />
 
 </div>
 
@@ -407,7 +407,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- TECH STACK -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=skills" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
 </div>
 
 # 🛠️ Technology Stack
@@ -498,7 +498,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- FEATURED SKILLS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80&section=skills-radar" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80" />
 </div>
 
 # 🎯 Featured Skills
@@ -566,26 +566,18 @@ Developer tooling and IDE experimentation focused on modern software-development
 #### 🧩 Skill Radar Overview
 
 ```text
-                        FULL-STACK
-                          ██████
-                      ████████████
-                  ████████████████████
-              ████████████████████████████
-          ████████████████████████████████████
-      ████████████████████████████████████████████
-  ████████████████████████████████████████████████████
-                          MOBILE
-              ████████████████████████████████████████████
-                  ████████████████████████████████████
-                      ████████████████████████████
-                          ████████████████████
-                              ████████████
-                                  ██████
+  SKILL PROFICIENCY OVERVIEW
+  ═══════════════════════════════════════════════════════
 
-       MOBILE ◄──────────────────────────► FULL-STACK
-                    ▲              ▲
-                    │              │
-              CLOUD ◄──────────────► DISTRIBUTED
+  Full-Stack   ████████████████████████████████████░░  90%
+  Mobile       ██████████████████████████████░░░░░░░░  78%
+  Cloud/Infra  ████████████████████████████░░░░░░░░░░  75%
+  Databases    ██████████████████████████████████████░  92%
+  Distributed  ████████████████████████░░░░░░░░░░░░░░  65%
+  DevOps       ██████████████████████████████░░░░░░░░  80%
+
+  ═══════════════════════════════════════════════════════
+  █ Expert (90+)  █ Advanced (75+)  ░ Learning (<75)
 ```
 </div>
 
@@ -605,7 +597,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- GITHUB STATS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=stats" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
 </div>
 
 # 📊 GitHub Analytics
@@ -657,7 +649,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- ARCHITECTURE -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80&section=architecture" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80" />
 </div>
 
 # 🧩 Engineering Interests
@@ -793,7 +785,7 @@ Distributed Systems
 
 <!-- CURRENT FOCUS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=focus" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
 </div>
 
 # 🔨 Current Focus
@@ -833,7 +825,7 @@ const currentFocus = {
 
 <!-- CAREER & CONTACT -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80&section=career" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80" />
 </div>
 
 # 🎯 Career Direction
@@ -862,7 +854,7 @@ I'm looking for opportunities where I can contribute to **real software products
 <!-- CONNECT -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=connect" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
 
 ## 🤝 Let's Connect
 
@@ -887,7 +879,7 @@ I'm looking for opportunities where I can contribute to **real software products
 <div align="center">
 
 <!-- SNAKE ANIMATION -->
-<img width="100%" src="https://raw.githubusercontent.com/AHSANMOHAMMED/AHSANMOHAMMED/output/github-snake-dark.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
