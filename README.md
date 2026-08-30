@@ -202,17 +202,7 @@ I'm a **Software Engineering undergraduate at SLIIT, Sri Lanka** focused on buil
 
 </div>
 
----
 
-## 📊 Contribution Calendar
-
-<div align="center">
-
-<a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="600" alt="AHSAN MOHAMMED 3D contribution calendar" style="max-width: 100%;"/>
-</a>
-
-</div>
 
 ---
 
