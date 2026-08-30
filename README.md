@@ -727,6 +727,21 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 ---
 
+<!-- REPO HEATMAP -->
+<div align="center">
+
+### 📦 Repository Activity Heatmap
+
+<a href="https://github.com/AHSANMOHAMMED?tab=repositories">
+  <img src="./profile-3d-contrib/repo-heatmap.svg" width="750" alt="AHSAN MOHAMMED repository activity heatmap — stars, forks, language, and recency per repo" style="max-width: 100%;"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
 <!-- CODING ACTIVITY -->
 <div align="center">
 

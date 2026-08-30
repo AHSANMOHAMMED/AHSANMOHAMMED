@@ -11,7 +11,7 @@ permissions:
 jobs:
   update-svgs:
     runs-on: ubuntu-latest
-    name: Regenerate Contribution SVGs
+    name: Regenerate Profile SVGs
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,8 +21,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate fresh SVGs from GitHub API
+      - name: Generate contribution SVGs
         run: python3 .github/scripts/generate-svgs.py
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Generate repo heatmap
+        run: python3 .github/scripts/generate-repo-heatmap.py
         env:
           GITHUB_USER: ${{ github.repository_owner }}
 
@@ -34,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: auto-update contribution SVGs [skip ci]"
+            git commit -m "chore: auto-update profile SVGs [skip ci]"
             git push
           fi
