@@ -949,6 +949,12 @@ I'm looking for opportunities where I can contribute to **real software products
 
 <br/>
 
+<a href="https://github.com/AHSANMOHAMMED">
+  <img src="./profile-3d-contrib/contact-banner.svg" width="700" alt="Contact AHSAN MOHAMMED — Email, LinkedIn, GitHub, Available for Work" style="max-width: 100%;"/>
+</a>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-m-s-m-13048b324/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/AHSANMOHAMMED)

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220" width="700" height="220">
+<defs>
+<linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/></linearGradient>
+<linearGradient id="email-grad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ea4335"/><stop offset="50%" stop-color="#fbbc04"/><stop offset="100%" stop-color="#34a853"/>
+</linearGradient>
+<linearGradient id="linkedin-grad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0077b5"/><stop offset="100%" stop-color="#00a0dc"/>
+</linearGradient>
+<linearGradient id="github-grad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#333"/><stop offset="100%" stop-color="#555"/>
+</linearGradient>
+<filter id="glow-c"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="glow-s"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="700" height="220" fill="url(#cbg)" rx="12"/>
+<circle cx="100" cy="100" r="30" fill="none" stroke="#ea4335" stroke-width="1" opacity="0">
+<animate attributeName="r" values="30;50;30" dur="2.5s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.4;0;0.4" dur="2.5s" begin="0.0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="100" cy="100" r="45" fill="none" stroke="#ea4335" stroke-width="1" opacity="0">
+<animate attributeName="r" values="45;65;45" dur="3.0s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.4;0;0.4" dur="3.0s" begin="0.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="100" cy="100" r="60" fill="none" stroke="#ea4335" stroke-width="1" opacity="0">
+<animate attributeName="r" values="60;80;60" dur="3.5s" begin="1.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.4;0;0.4" dur="3.5s" begin="1.6s" repeatCount="indefinite"/>
+</circle>
+<rect x="72" y="80" width="56" height="40" rx="4" fill="#ea4335" filter="url(#glow-s)">
+<animate attributeName="fill" values="#ea4335;#fbbc04;#34a853;#ea4335" dur="4s" repeatCount="indefinite"/>
+</rect>
+<polygon points="72,80 100,100 128,80" fill="#c62828">
+<animate attributeName="fill" values="#c62828;#f57f17;#1b5e20;#c62828" dur="4s" repeatCount="indefinite"/>
+</polygon>
+<line x1="76" y1="108" x2="100" y2="95" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+<line x1="124" y1="108" x2="100" y2="95" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+<text x="100" y="145" text-anchor="middle" fill="#ea4335" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Send Email</text>
+<text x="100" y="160" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">ahsanmohammed828@gmail.com</text>
+<rect x="270" y="55" width="220" height="30" rx="6" fill="#21262d" stroke="#ea4335" stroke-width="1" opacity="0">
+<animate attributeName="opacity" values="0;0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
+<animate attributeName="stroke-width" values="1;2;1" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="55" width="220" height="30" rx="6" fill="#ea4335" opacity="0">
+<animate attributeName="opacity" values="0;0.08;0" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+</rect>
+<text x="380" y="74" text-anchor="middle" fill="#e6edf3" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" opacity="0">
+📧  Email Me
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
+</text>
+<rect x="270" y="93" width="220" height="30" rx="6" fill="#21262d" stroke="#0077b5" stroke-width="1" opacity="0">
+<animate attributeName="opacity" values="0;0;1" dur="0.5s" begin="1.6s" fill="freeze"/>
+<animate attributeName="stroke-width" values="1;2;1" dur="2s" begin="1.6s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="93" width="220" height="30" rx="6" fill="#0077b5" opacity="0">
+<animate attributeName="opacity" values="0;0.08;0" dur="3s" begin="2.6s" repeatCount="indefinite"/>
+</rect>
+<text x="380" y="112" text-anchor="middle" fill="#e6edf3" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" opacity="0">
+💼  LinkedIn
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze"/>
+</text>
+<rect x="270" y="131" width="220" height="30" rx="6" fill="#21262d" stroke="#8b949e" stroke-width="1" opacity="0">
+<animate attributeName="opacity" values="0;0;1" dur="0.5s" begin="2.4s" fill="freeze"/>
+<animate attributeName="stroke-width" values="1;2;1" dur="2s" begin="2.4s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="131" width="220" height="30" rx="6" fill="#8b949e" opacity="0">
+<animate attributeName="opacity" values="0;0.08;0" dur="3s" begin="3.4s" repeatCount="indefinite"/>
+</rect>
+<text x="380" y="150" text-anchor="middle" fill="#e6edf3" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" opacity="0">
+🐙  GitHub
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.4s" fill="freeze"/>
+</text>
+<rect x="270" y="169" width="220" height="30" rx="6" fill="#21262d" stroke="#06b6d4" stroke-width="1" opacity="0">
+<animate attributeName="opacity" values="0;0;1" dur="0.5s" begin="3.2s" fill="freeze"/>
+<animate attributeName="stroke-width" values="1;2;1" dur="2s" begin="3.2s" repeatCount="indefinite"/>
+</rect>
+<rect x="270" y="169" width="220" height="30" rx="6" fill="#06b6d4" opacity="0">
+<animate attributeName="opacity" values="0;0.08;0" dur="3s" begin="4.2s" repeatCount="indefinite"/>
+</rect>
+<text x="380" y="188" text-anchor="middle" fill="#e6edf3" font-family="Verdana,sans-serif" font-size="12" font-weight="bold" opacity="0">
+📍  SLIIT, Sri Lanka
+<animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.2s" fill="freeze"/>
+</text>
+<circle cx="560" cy="70" r="8" fill="#22c55e" filter="url(#glow-s)">
+<animate attributeName="r" values="8;10;8" dur="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="560" cy="70" r="12" fill="none" stroke="#22c55e" stroke-width="1">
+<animate attributeName="r" values="12;18;12" dur="2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="580" y="74" fill="#22c55e" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Available for Work</text>
+<text x="560" y="100" fill="#8b949e" font-family="Verdana,sans-serif" font-size="9">Open to:</text>
+<rect x="560" y="108" width="82" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+<text x="601" y="120" text-anchor="middle" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="8">Internships</text>
+<rect x="648" y="108" width="100" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+<text x="698" y="120" text-anchor="middle" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="8">Collaborations</text>
+<rect x="754" y="108" width="82" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+<text x="795" y="120" text-anchor="middle" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="8">Open Source</text>
+<rect x="842" y="108" width="70" height="18" rx="9" fill="#21262d" stroke="#30363d" stroke-width="0.5"/>
+<text x="877" y="120" text-anchor="middle" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="8">Freelance</text>
+<text x="350" y="205" text-anchor="middle" fill="#484f58" font-family="Verdana,sans-serif" font-size="8">💬 Usually responds within 24 hours • 📅 Available for full-time & part-time roles</text>
+<text x="680" y="205" text-anchor="end" fill="#22c55e" font-family="Verdana,sans-serif" font-size="8">● online<animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></text>
+</svg>
