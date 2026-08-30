@@ -4,221 +4,190 @@
 <polygon points="60,90 120,90 132,78 72,78" fill="#6499d4" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="120,90 132,78 132,138 120,150" fill="#1f4e80" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="60" y="90" width="60" height="60" fill="#3178C6" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="90" y="124" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">TypeScript</text>
-<rect x="90-12" y="120-10" width="24" height="20" rx="3" fill="#235a97" stroke="#ffffff" stroke-width="1.5"/>
-<text x="90" y="120+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="14" font-weight="bold">TS</text>
+<rect x="90-10" y="120-8" width="20" height="16" rx="2" fill="#235a97" stroke="#fff" stroke-width="1"/>
+<text x="90" y="120+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">TS</text>
 <text x="90" y="176" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">TypeScript</text>
 <polygon points="148,90 208,90 220,78 160,78" fill="#f9e756" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="208,90 220,78 220,138 208,150" fill="#a09013" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="148" y="90" width="60" height="60" fill="#F7DF1E" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="178" y="124" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">JavaScript</text>
-<rect x="178-12" y="120-10" width="24" height="20" rx="3" fill="#b8a200" stroke="#000000" stroke-width="1"/>
-<text x="178" y="120+5" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="14" font-weight="bold">JS</text>
+<rect x="178-10" y="120-8" width="20" height="16" rx="2" fill="#b8a200" stroke="#000" stroke-width="0.8"/>
+<text x="178" y="120+3" text-anchor="middle" fill="#000" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">JS</text>
 <text x="178" y="176" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">JavaScript</text>
 <polygon points="236,90 296,90 308,78 248,78" fill="#88e3fc" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="296,90 308,78 308,138 296,150" fill="#3f8da3" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="236" y="90" width="60" height="60" fill="#61DAFB" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="266" y="124" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">React</text>
-<circle cx="266" cy="120" r="3" fill="#61DAFB"/>
-<ellipse cx="266" cy="120" rx="14" ry="5" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(0 266 120)"/>
-<ellipse cx="266" cy="120" rx="14" ry="5" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(60 266 120)"/>
-<ellipse cx="266" cy="120" rx="14" ry="5" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(120 266 120)"/>
+<circle cx="266" cy="120" r="2" fill="#61DAFB"/>
+<ellipse cx="266" cy="120" rx="10" ry="3.5" fill="none" stroke="#61DAFB" stroke-width="1.2"/>
+<ellipse cx="266" cy="120" rx="10" ry="3.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(60 266 120)"/>
+<ellipse cx="266" cy="120" rx="10" ry="3.5" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(120 266 120)"/>
 <text x="266" y="176" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">React</text>
 <polygon points="324,90 384,90 396,78 336,78" fill="#3f3f3f" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="384,90 396,78 396,138 384,150" fill="#000000" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="324" y="90" width="60" height="60" fill="#000000" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="354" y="124" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Next.js</text>
-<circle cx="354" cy="120" r="13" fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
-<text x="354+1" y="120+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="13" font-weight="bold">N</text>
+<circle cx="354" cy="120" r="10" fill="#000" stroke="#fff" stroke-width="1.2"/>
+<text x="354" y="120+4" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">N</text>
 <text x="354" y="176" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Next.js</text>
 <polygon points="412,90 472,90 484,78 424,78" fill="#66b266" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="472,90 484,78 484,138 472,150" fill="#216321" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="412" y="90" width="60" height="60" fill="#339933" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="442" y="124" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Node.js</text>
-<polygon points="442,120-14 442+13,120+7 442-13,120+7" fill="#339933" stroke="#228422" stroke-width="1"/>
-<text x="442" y="120+4" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">node</text>
+<polygon points="442,120-10 442+9,120+5 442-9,120+5" fill="#339933" stroke="#228422" stroke-width="0.8"/>
+<text x="442" y="120+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="7" font-weight="bold">node</text>
 <text x="442" y="176" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Node.js</text>
 <polygon points="60,178 120,178 132,166 72,166" fill="#4180b4" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="120,178 132,166 132,226 120,238" fill="#013764" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="60" y="178" width="60" height="60" fill="#02569B" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="90" y="212" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Flutter</text>
-<path d="M90-2,208-12 L90+10,208 L90+2,208+4 L90-6,208-8 Z" fill="#02569B"/>
-<path d="M90-2,208-4 L90+10,208+8 L90+2,208+12 L90-6,208+0 Z" fill="#13b9fd"/>
-<circle cx="90+4" cy="208+6" r="2" fill="#02569B"/>
+<path d="M90-1,208-10 L90+8,208-1 L90+1,208+2 L90-6,208-7 Z" fill="#02569B"/>
+<path d="M90-1,208-3 L90+8,208+6 L90+1,208+9 L90-6,208+0 Z" fill="#13b9fd"/>
+<circle cx="90+3" cy="208+5" r="1.5" fill="#02569B"/>
 <text x="90" y="264" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Flutter</text>
 <polygon points="148,178 208,178 220,166 160,166" fill="#4097d1" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="208,178 220,166 220,226 208,238" fill="#004c7e" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="148" y="178" width="60" height="60" fill="#0175C2" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="178" y="212" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Dart</text>
-<path d="M178,208-13 L178+8,208-5 L178+8,208+5 L178,208+13 L178-8,208+5 L178-8,208-5 Z" fill="#0175C2" stroke="#ffffff" stroke-width="1"/>
-<circle cx="178" cy="208" r="4" fill="#ffffff"/>
+<path d="M178,208-10 L178+6,208-4 L178+6,208+4 L178,208+10 L178-6,208+4 L178-6,208-4 Z" fill="#0175C2" stroke="#fff" stroke-width="0.8"/>
+<circle cx="178" cy="208" r="3" fill="#fff"/>
 <text x="178" y="264" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Dart</text>
 <polygon points="236,178 296,178 308,166 248,166" fill="#6998c0" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="296,178 308,166 308,226 296,238" fill="#234c6f" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="236" y="178" width="60" height="60" fill="#3776AB" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="266" y="212" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Python</text>
-<text x="266" y="208-2" text-anchor="middle" fill="#ffd43b" font-family="Verdana,sans-serif" font-size="22" font-weight="bold">🐍</text>
+<text x="266" y="208+4" text-anchor="middle" font-size="16">🐍</text>
 <text x="266" y="264" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Python</text>
 <polygon points="324,178 384,178 396,166 336,166" fill="#f1a83f" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="384,178 396,166 396,226 384,238" fill="#9a5a00" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="324" y="178" width="60" height="60" fill="#ED8B00" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="354" y="212" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Java</text>
-<text x="354" y="208+2" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="16" font-weight="bold">☕</text>
+<text x="354" y="208+4" text-anchor="middle" font-size="14">☕</text>
 <text x="354" y="264" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Java</text>
 <polygon points="412,178 472,178 484,166 424,166" fill="#9f7dff" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="472,178 484,166 484,226 472,238" fill="#5235a5" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="412" y="178" width="60" height="60" fill="#7F52FF" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="442" y="212" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Kotlin</text>
-<rect x="442-11" y="208-11" width="22" height="22" rx="4" fill="#7F52FF"/>
-<text x="442" y="208+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Kt</text>
+<rect x="442-9" y="208-9" width="18" height="18" rx="3" fill="#7F52FF"/>
+<text x="442" y="208+4" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">Kt</text>
 <text x="442" y="264" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Kotlin</text>
 <polygon points="60,266 120,266 132,254 72,254" fill="#5ab0f1" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="120,266 132,254 132,314 120,326" fill="#17619a" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="60" y="266" width="60" height="60" fill="#2496ED" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="90" y="300" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Docker</text>
-<rect x="90-13" y="296-4" width="26" height="12" rx="2" fill="#2496ED" stroke="#1a6fb5" stroke-width="1"/>
-<rect x="90-11" y="296-10" width="4" height="5" fill="#2496ED"/>
-<rect x="90-5" y="296-10" width="4" height="5" fill="#2496ED"/>
-<rect x="90+1" y="296-10" width="4" height="5" fill="#2496ED"/>
-<rect x="90+7" y="296-10" width="4" height="5" fill="#2496ED"/>
-<path d="M90-10,296+10 Q90,296+16 90+10,296+10" fill="none" stroke="#2496ED" stroke-width="2"/>
+<rect x="90-10" y="296-2" width="20" height="8" rx="1.5" fill="#2496ED" stroke="#1a6fb5" stroke-width="0.8"/>
+<rect x="90-8" y="296-7" width="3" height="4" fill="#2496ED"/>
+<rect x="90-3" y="296-7" width="3" height="4" fill="#2496ED"/>
+<rect x="90+2" y="296-7" width="3" height="4" fill="#2496ED"/>
+<rect x="90+7" y="296-7" width="3" height="4" fill="#2496ED"/>
+<path d="M90-8,296+8 Q90,296+12 90+8,296+8" fill="none" stroke="#2496ED" stroke-width="1.5"/>
 <text x="90" y="352" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Docker</text>
 <polygon points="148,266 208,266 220,254 160,254" fill="#fcd45a" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="208,266 220,254 220,314 208,326" fill="#a38017" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="148" y="266" width="60" height="60" fill="#FCC624" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="178" y="300" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Linux</text>
-<text x="178" y="296+2" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="22" font-weight="bold">🐧</text>
+<text x="178" y="296+4" text-anchor="middle" font-size="16">🐧</text>
 <text x="178" y="352" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Linux</text>
 <polygon points="236,266 296,266 308,254 248,254" fill="#3fb06a" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="296,266 308,254 308,314 296,326" fill="#006125" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="236" y="266" width="60" height="60" fill="#009639" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="266" y="300" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Nginx</text>
-<polygon points="266,296-12 266+12,296+6 266-12,296+6" fill="#009639"/>
-<text x="266" y="296+3" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="9" font-weight="bold">nginx</text>
+<polygon points="266,296-8 266+9,296+4 266-9,296+4" fill="#009639"/>
+<text x="266" y="296+2" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="6" font-weight="bold">nginx</text>
 <text x="266" y="352" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Nginx</text>
 <polygon points="324,266 384,266 396,254 336,254" fill="#f37b65" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="384,266 396,254 396,314 384,326" fill="#9c3420" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="324" y="266" width="60" height="60" fill="#F05032" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="354" y="300" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Git</text>
-<rect x="354-12" y="296-12" width="24" height="24" rx="4" fill="#F05032"/>
-<text x="354" y="296+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="14" font-weight="bold">Git</text>
+<rect x="354-9" y="296-9" width="18" height="18" rx="3" fill="#F05032"/>
+<text x="354" y="296+4" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">Git</text>
 <text x="354" y="352" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Git</text>
 <polygon points="412,266 472,266 484,254 424,254" fill="#57a5ff" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="472,266 484,254 484,314 472,326" fill="#1458a5" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="412" y="266" width="60" height="60" fill="#2088FF" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="442" y="300" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">GitHub Actions</text>
-<circle cx="442" cy="296" r="12" fill="#2088FF"/>
-<text x="442" y="296+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">GH</text>
+<circle cx="442" cy="296" r="9" fill="#2088FF"/>
+<text x="442" y="296+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="9" font-weight="bold">GH</text>
 <text x="442" y="352" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">GitHub Actions</text>
 <polygon points="60,354 120,354 132,342 72,342" fill="#708ee8" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="120,354 132,342 132,402 120,414" fill="#2a4492" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="60" y="354" width="60" height="60" fill="#4169E1" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="90" y="388" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">PostgreSQL</text>
-<ellipse cx="90" cy="384-6" rx="12" ry="6" fill="#4169E1"/>
-<rect x="90-12" y="384-6" width="24" height="14" fill="#4169E1"/>
-<ellipse cx="90" cy="384+8" rx="12" ry="6" fill="#3368b8"/>
-<text x="90" y="384+3" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">PG</text>
+<ellipse cx="90" cy="384-4" rx="9" ry="4" fill="#4169E1"/>
+<rect x="90-9" y="384-4" width="18" height="10" fill="#4169E1"/>
+<ellipse cx="90" cy="384+6" rx="9" ry="4" fill="#3368b8"/>
+<text x="90" y="384+2" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="6" font-weight="bold">PG</text>
 <text x="90" y="440" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">PostgreSQL</text>
 <polygon points="148,354 208,354 220,342 160,342" fill="#75b975" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="208,354 220,342 220,402 208,414" fill="#2e692e" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="148" y="354" width="60" height="60" fill="#47A248" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="178" y="388" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">MongoDB</text>
-<ellipse cx="178" cy="384-4" rx="11" ry="5" fill="#47A248"/>
-<rect x="178-11" y="384-4" width="22" height="12" fill="#47A248"/>
-<ellipse cx="178" cy="384+8" rx="11" ry="5" fill="#3a8a3a"/>
-<text x="178" y="384+3" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="7" font-weight="bold">MDB</text>
+<ellipse cx="178" cy="384-3" rx="8" ry="3.5" fill="#47A248"/>
+<rect x="178-8" y="384-3" width="16" height="9" fill="#47A248"/>
+<ellipse cx="178" cy="384+6" rx="8" ry="3.5" fill="#3a8a3a"/>
+<text x="178" y="384+1" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="5" font-weight="bold">MDB</text>
 <text x="178" y="440" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">MongoDB</text>
 <polygon points="236,354 296,354 308,342 248,342" fill="#ff7269" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="296,354 308,342 308,402 296,414" fill="#a52c24" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="236" y="354" width="60" height="60" fill="#FF4438" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="266" y="388" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Redis</text>
-<rect x="266-12" y="384-10" width="24" height="20" rx="4" fill="#FF4438"/>
-<text x="266" y="384+4" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Redis</text>
+<rect x="266-9" y="384-7" width="18" height="14" rx="3" fill="#FF4438"/>
+<text x="266" y="384+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">Redis</text>
 <text x="266" y="440" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Redis</text>
 <polygon points="324,354 384,354 396,342 336,342" fill="#e5603f" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="384,354 396,342 396,402 384,414" fill="#8f1c00" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="324" y="354" width="60" height="60" fill="#DD2C00" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="354" y="388" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Firebase</text>
-<polygon points="354,384-12 354+10,384-2 354-10,384+8 354,384-2" fill="#FFC107"/>
-<polygon points="354,384-2 354+10,384-2 354-10,384+12 354,384+2" fill="#DD2C00"/>
-<polygon points="354,384-2 354+10,384-2 354-10,384-12 354,384-6" fill="#F57C00"/>
+<polygon points="354,384-9 354+7,384-2 354-7,384-2" fill="#FFC107"/>
+<polygon points="354,384-2 354+7,384-2 354-7,384+7 354,384+2" fill="#DD2C00"/>
 <text x="354" y="440" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Firebase</text>
 <polygon points="412,354 472,354 484,342 424,342" fill="#5a5757" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="472,354 484,342 484,402 472,414" fill="#161414" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="412" y="354" width="60" height="60" fill="#231F20" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="442" y="388" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Kafka</text>
-<rect x="442-13" y="384-10" width="26" height="20" rx="3" fill="#231F20" stroke="#4a4a4a" stroke-width="1"/>
-<text x="442" y="384+4" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">Kafka</text>
+<rect x="442-10" y="384-7" width="20" height="14" rx="2" fill="#231F20" stroke="#4a4a4a" stroke-width="0.8"/>
+<text x="442" y="384+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">Kafka</text>
 <text x="442" y="440" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Kafka</text>
 <polygon points="60,442 120,442 132,430 72,430" fill="#44c8de" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="120,442 132,430 132,490 120,502" fill="#037689" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="60" y="442" width="60" height="60" fill="#06B6D4" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="90" y="476" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Tailwind</text>
-<path d="M90-12,472+4 Q90-6,472-8 90,472+4 Q90+6,472-8 90+12,472+4" fill="none" stroke="#06B6D4" stroke-width="3" stroke-linecap="round"/>
+<path d="M90-9,472+3 Q90-4,472-6 90,472+3 Q90+4,472-6 90+9,472+3" fill="none" stroke="#06B6D4" stroke-width="2" stroke-linecap="round"/>
 <text x="90" y="528" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Tailwind</text>
 <polygon points="148,442 208,442 220,430 160,430" fill="#ea7b5c" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="208,442 220,430 220,490 208,502" fill="#933318" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="148" y="442" width="60" height="60" fill="#E34F26" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="178" y="476" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">HTML5</text>
-<text x="178" y="472+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="16" font-weight="bold">&lt;5&gt;</text>
+<text x="178" y="472+4" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">&lt;5&gt;</text>
 <text x="178" y="528" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">HTML5</text>
 <polygon points="236,442 296,442 308,430 248,430" fill="#4f95c8" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="296,442 308,430 308,490 296,502" fill="#0d4a76" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="236" y="442" width="60" height="60" fill="#1572B6" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="266" y="476" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">CSS3</text>
-<text x="266" y="472+5" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="14" font-weight="bold">#3</text>
+<text x="266" y="472+4" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">#3</text>
 <text x="266" y="528" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">CSS3</text>
 <polygon points="324,442 384,442 396,430 336,430" fill="#8a90ff" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="384,442 396,430 396,490 384,502" fill="#4146a5" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="324" y="442" width="60" height="60" fill="#646CFF" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="354" y="476" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Vite</text>
-<polygon points="354,472-12 354+11,472-2 354+6,472+12 354-6,472+12 354-11,472-2" fill="#646CFF"/>
-<text x="354" y="472+4" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">V</text>
+<polygon points="354,472-9 354+8,472-2 354+5,472+8 354-5,472+8 354-8,472-2" fill="#646CFF"/>
+<text x="354" y="472+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">V</text>
 <text x="354" y="528" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Vite</text>
 <polygon points="412,442 472,442 484,430 424,430" fill="#666666" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="472,442 484,430 484,490 472,502" fill="#212121" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="412" y="442" width="60" height="60" fill="#333333" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="442" y="476" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Express</text>
-<rect x="442-13" y="472-10" width="26" height="20" rx="3" fill="#333333" stroke="#666666" stroke-width="1"/>
-<text x="442" y="472+4" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="10" font-weight="bold">Ex</text>
+<rect x="442-10" y="472-7" width="20" height="14" rx="2" fill="#333" stroke="#666" stroke-width="0.8"/>
+<text x="442" y="472+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">Ex</text>
 <text x="442" y="528" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Express</text>
 <polygon points="60,530 120,530 132,518 72,518" fill="#e83fb1" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="120,530 132,518 132,578 120,590" fill="#920062" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="60" y="530" width="60" height="60" fill="#E10098" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="90" y="564" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">GraphQL</text>
-<circle cx="90" cy="560-6" r="4" fill="none" stroke="#E10098" stroke-width="2"/>
-<circle cx="90-8" cy="560+6" r="4" fill="none" stroke="#E10098" stroke-width="2"/>
-<circle cx="90+8" cy="560+6" r="4" fill="none" stroke="#E10098" stroke-width="2"/>
-<line x1="90" y1="560-2" x2="90-8" y2="560+2" stroke="#E10098" stroke-width="1.5"/>
-<line x1="90" y1="560-2" x2="90+8" y2="560+2" stroke="#E10098" stroke-width="1.5"/>
+<circle cx="90" cy="560-5" r="3" fill="none" stroke="#E10098" stroke-width="1.5"/>
+<circle cx="90-6" cy="560+5" r="3" fill="none" stroke="#E10098" stroke-width="1.5"/>
+<circle cx="90+6" cy="560+5" r="3" fill="none" stroke="#E10098" stroke-width="1.5"/>
+<line x1="90" y1="560-2" x2="90-6" y2="560+2" stroke="#E10098" stroke-width="1"/>
+<line x1="90" y1="560-2" x2="90+6" y2="560+2" stroke="#E10098" stroke-width="1"/>
 <text x="90" y="616" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">GraphQL</text>
 <polygon points="148,530 208,530 220,518 160,518" fill="#3f7f94" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="208,530 220,518 220,578 208,590" fill="#003749" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="148" y="530" width="60" height="60" fill="#005571" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="178" y="564" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Elasticsearch</text>
-<text x="178" y="560+2" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="22" font-weight="bold">🔍</text>
+<text x="178" y="560+4" text-anchor="middle" font-size="16">🔍</text>
 <text x="178" y="616" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Elasticsearch</text>
 <polygon points="236,530 296,530 308,518 248,518" fill="#d56078" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="296,530 308,518 308,578 296,590" fill="#811c30" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="236" y="530" width="60" height="60" fill="#C72C4B" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="266" y="564" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">MinIO</text>
-<rect x="266-12" y="560-8" width="24" height="16" rx="3" fill="#C72C4B"/>
-<text x="266" y="560+3" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">MinIO</text>
+<rect x="266-9" y="560-6" width="18" height="12" rx="2" fill="#C72C4B"/>
+<text x="266" y="560+2" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="6" font-weight="bold">MinIO</text>
 <text x="266" y="616" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">MinIO</text>
 <polygon points="324,530 384,530 396,518 336,518" fill="#f93f3f" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="384,530 396,518 396,578 384,590" fill="#a10000" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="324" y="530" width="60" height="60" fill="#F80000" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="354" y="564" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">Oracle</text>
-<rect x="354-12" y="560-10" width="24" height="20" rx="3" fill="#F80000"/>
-<text x="354" y="560+4" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Ora</text>
+<rect x="354-9" y="560-7" width="18" height="14" rx="2" fill="#F80000"/>
+<text x="354" y="560+3" text-anchor="middle" fill="#fff" font-family="Verdana,sans-serif" font-size="8" font-weight="bold">Ora</text>
 <text x="354" y="616" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">Oracle</text>
 <polygon points="412,530 472,530 484,518 424,518" fill="#88e3fc" stroke="#1a1f2e" stroke-width="1"/>
 <polygon points="472,530 484,518 484,578 472,590" fill="#3f8da3" stroke="#1a1f2e" stroke-width="1"/>
 <rect x="412" y="530" width="60" height="60" fill="#61DAFB" stroke="#1a1f2e" stroke-width="1" rx="3"/>
-<text x="442" y="564" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="12" font-weight="bold">React Native</text>
-<circle cx="442" cy="560" r="3" fill="#61DAFB"/>
-<ellipse cx="442" cy="560" rx="12" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.5"/>
-<ellipse cx="442" cy="560" rx="12" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(60 442 560)"/>
-<ellipse cx="442" cy="560" rx="12" ry="4.5" fill="none" stroke="#61DAFB" stroke-width="1.5" transform="rotate(120 442 560)"/>
+<circle cx="442" cy="560" r="2" fill="#61DAFB"/>
+<ellipse cx="442" cy="560" rx="9" ry="3" fill="none" stroke="#61DAFB" stroke-width="1.2"/>
+<ellipse cx="442" cy="560" rx="9" ry="3" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(60 442 560)"/>
+<ellipse cx="442" cy="560" rx="9" ry="3" fill="none" stroke="#61DAFB" stroke-width="1.2" transform="rotate(120 442 560)"/>
 <text x="442" y="616" text-anchor="middle" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">React Native</text>
 </svg>
