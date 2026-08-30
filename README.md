@@ -42,7 +42,7 @@
 
 <!-- 3D CONTRIBUTION CALENDAR -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="350" alt="3D Contribution Calendar" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="3D Contribution Calendar" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -562,7 +562,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### 🎨 Skills at a Glance — 3D View
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/skill-icons-3d.svg" width="450" alt="3D Skill Icons" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/skill-icons-3d.svg" width="550" alt="3D Skill Icons" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -686,7 +686,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### 📊 3D Contribution Calendar
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="350" alt="3D Contribution Calendar" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="3D Contribution Calendar" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -709,7 +709,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 > Your contribution graph reimagined as a living 3D city skyline. Each building's height represents daily coding activity.
 
 <a href="https://skyline3d.in/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/github-skyline.svg" width="700" alt="GitHub Skyline 3D City" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/github-skyline.svg" width="800" alt="GitHub Skyline 3D City" style="max-width: 100%;"/>
 </a>
 
 [![Explore Interactive](https://img.shields.io/badge/Explore_Interactively-06b6d4?style=for-the-badge&logo=github)](https://skyline3d.in/AHSANMOHAMMED)
@@ -726,7 +726,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### ⏱️ Weekly Coding Activity
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/coding-activity.svg" width="700" alt="Weekly Coding Activity — WakaTime Style" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/coding-activity.svg" width="800" alt="Weekly Coding Activity — WakaTime Style" style="max-width: 100%;"/>
 </a>
 
 </div>
