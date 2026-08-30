@@ -720,6 +720,21 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 ---
 
+<!-- CODING ACTIVITY -->
+<div align="center">
+
+### ⏱️ Weekly Coding Activity
+
+<a href="https://github.com/AHSANMOHAMMED">
+  <img src="./profile-3d-contrib/coding-activity.svg" width="700" alt="Weekly Coding Activity — WakaTime Style" style="max-width: 100%;"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
 <!-- ARCHITECTURE -->
 # 🧩 Engineering Interests
 
