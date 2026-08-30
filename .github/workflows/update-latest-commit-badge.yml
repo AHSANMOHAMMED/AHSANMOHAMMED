@@ -12,14 +12,21 @@ jobs:
   update-badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout main (for script)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Save script
+        run: cp .github/scripts/generate-badge.py /tmp/generate-badge.py
+
+      - name: Checkout output branch
         uses: actions/checkout@v4
         with:
           ref: output
-          fetch-depth: 0
 
       - name: Generate latest commit badge
-        run: python3 .github/scripts/generate-badge.py
+        run: python3 /tmp/generate-badge.py
 
       - name: Commit badge
         run: |
