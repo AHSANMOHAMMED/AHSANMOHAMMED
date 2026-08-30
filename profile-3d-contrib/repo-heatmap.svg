@@ -1,81 +1,142 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 630" width="700" height="630">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/></linearGradient></defs>
-<rect width="700" height="630" fill="url(#bg)" rx="12"/>
-<text x="350" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#22d3ee">📦 Repository Activity</text>
-<text x="350" y="60" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8b949e">AHSANMOHAMMED — 10 recent repos</text>
-<rect x="20" y="100" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="84" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="104" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">AHSANMOHAMMED</text>
-<text x="44" y="122" font-family="Arial,sans-serif" font-size="10" fill="#8b949e">👨‍💻 Ahsan Mohammed (he/him) 🎓 3rd Year Software ...</text>
-<circle cx="574" cy="100" r="4" fill="#8b949e"/>
-<text x="582" y="104" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">Unknown</text>
-<text x="574" y="120" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="104" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-30</text>
-<rect x="20" y="150" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="134" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="154" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">personal_portfolio</text>
-<circle cx="574" cy="150" r="4" fill="#F7DF1E"/>
-<text x="582" y="154" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">JavaScript</text>
-<text x="574" y="170" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="154" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-28</text>
-<rect x="20" y="200" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="184" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="204" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">doorli-sync</text>
-<circle cx="574" cy="200" r="4" fill="#3178C6"/>
-<text x="582" y="204" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">TypeScript</text>
-<text x="574" y="220" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="204" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-28</text>
-<rect x="20" y="250" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="234" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="254" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">Doorli</text>
-<text x="44" y="272" font-family="Arial,sans-serif" font-size="10" fill="#8b949e">Doorli is a community super-app that connects ev...</text>
-<circle cx="574" cy="250" r="4" fill="#3178C6"/>
-<text x="582" y="254" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">TypeScript</text>
-<text x="574" y="270" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="254" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-28</text>
-<rect x="20" y="300" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="284" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="304" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">gem-king-orbit-lilac</text>
-<circle cx="574" cy="300" r="4" fill="#F7DF1E"/>
-<text x="582" y="304" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">JavaScript</text>
-<text x="574" y="320" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="304" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-27</text>
-<rect x="20" y="350" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="334" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="354" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">Farmora-App</text>
-<text x="44" y="372" font-family="Arial,sans-serif" font-size="10" fill="#8b949e">Farmora – A Flutter mobile app connecting rural ...</text>
-<circle cx="574" cy="350" r="4" fill="#0175C2"/>
-<text x="582" y="354" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">Dart</text>
-<text x="574" y="370" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="354" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-23</text>
-<rect x="20" y="400" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="384" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="404" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">Doorli-Enterprise-OS</text>
-<text x="44" y="422" font-family="Arial,sans-serif" font-size="10" fill="#8b949e">Proprietary, isolated Tier-2 enterprise resource...</text>
-<circle cx="574" cy="400" r="4" fill="#3572A5"/>
-<text x="582" y="404" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">Python</text>
-<text x="574" y="420" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="404" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-17</text>
-<rect x="20" y="450" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="434" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="454" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">nexus-core</text>
-<text x="44" y="472" font-family="Arial,sans-serif" font-size="10" fill="#8b949e">Internal automation and workflow utilities</text>
-<circle cx="574" cy="450" r="4" fill="#E34F26"/>
-<text x="582" y="454" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">HTML</text>
-<text x="574" y="470" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="454" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-08-04</text>
-<rect x="20" y="500" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="484" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="504" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">AHSANMOHAMMED.github.io</text>
-<circle cx="574" cy="500" r="4" fill="#8b949e"/>
-<text x="582" y="504" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">Unknown</text>
-<text x="574" y="520" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="504" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-07-25</text>
-<rect x="20" y="550" width="4" height="10" rx="2" fill="#006d32"/>
-<rect x="30" y="534" width="650" height="42" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-<text x="44" y="554" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#58a6ff">portfolio_upview</text>
-<circle cx="574" cy="550" r="4" fill="#1572B6"/>
-<text x="582" y="554" font-family="Arial,sans-serif" font-size="10" fill="#c9d1d9">CSS</text>
-<text x="574" y="570" font-family="Arial,sans-serif" font-size="10" fill="#e3b341">⭐0 🍴0</text>
-<text x="664" y="554" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6e7681">2026-07-09</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0a0e14"/><stop offset="100%" stop-color="#111820"/></linearGradient>
+<linearGradient id="accent1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22c55e"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
+<linearGradient id="accent3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#ef4444"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="softglow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="720" height="800" fill="url(#bg)" rx="16"/>
+<rect x="0" y="0" width="720" height="3" rx="1.5" fill="url(#accent1)"/>
+<text x="360" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="url(#accent1)">📦 Repository Activity</text>
+<text x="360" y="64" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#6b7280">AHSANMOHAMMED — 10 recent repos</text>
+<linearGradient id="row0" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="98" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="94" width="678" height="56" rx="10" fill="url(#row0)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="116" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">AHSANMOHAMMED</text>
+<text x="42" y="136" font-family="Arial,sans-serif" font-size="10" fill="#9ca3af">👨‍💻 Ahsan Mohammed (he/him) 🎓 3rd Year Software Engin...</text>
+<rect x="586" y="102" width="80" height="18" rx="9" fill="#8b949e" fill-opacity="0.2" stroke="#8b949e" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="111" r="4" fill="#8b949e"/>
+<text x="608" y="115" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">Unknown</text>
+<text x="690" y="115" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-30</text>
+<linearGradient id="row1" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="162" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="158" width="678" height="56" rx="10" fill="url(#row1)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="180" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">personal_portfolio</text>
+<rect x="586" y="166" width="80" height="18" rx="9" fill="#F7DF1E" fill-opacity="0.2" stroke="#F7DF1E" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="175" r="4" fill="#F7DF1E"/>
+<text x="608" y="179" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">JavaScript</text>
+<text x="690" y="179" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-28</text>
+<linearGradient id="row2" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="226" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="222" width="678" height="56" rx="10" fill="url(#row2)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="244" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">doorli-sync</text>
+<rect x="586" y="230" width="80" height="18" rx="9" fill="#3178C6" fill-opacity="0.2" stroke="#3178C6" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="239" r="4" fill="#3178C6"/>
+<text x="608" y="243" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">TypeScript</text>
+<text x="690" y="243" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-28</text>
+<linearGradient id="row3" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="290" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="286" width="678" height="56" rx="10" fill="url(#row3)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="308" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">Doorli</text>
+<text x="42" y="328" font-family="Arial,sans-serif" font-size="10" fill="#9ca3af">Doorli is a community super-app that connects every l...</text>
+<rect x="586" y="294" width="80" height="18" rx="9" fill="#3178C6" fill-opacity="0.2" stroke="#3178C6" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="303" r="4" fill="#3178C6"/>
+<text x="608" y="307" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">TypeScript</text>
+<text x="690" y="307" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-28</text>
+<linearGradient id="row4" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="354" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="350" width="678" height="56" rx="10" fill="url(#row4)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="372" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">gem-king-orbit-lilac</text>
+<rect x="586" y="358" width="80" height="18" rx="9" fill="#F7DF1E" fill-opacity="0.2" stroke="#F7DF1E" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="367" r="4" fill="#F7DF1E"/>
+<text x="608" y="371" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">JavaScript</text>
+<text x="690" y="371" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-27</text>
+<linearGradient id="row5" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="418" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="414" width="678" height="56" rx="10" fill="url(#row5)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="436" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">Farmora-App</text>
+<text x="42" y="456" font-family="Arial,sans-serif" font-size="10" fill="#9ca3af">Farmora – A Flutter mobile app connecting rural farme...</text>
+<rect x="586" y="422" width="80" height="18" rx="9" fill="#0175C2" fill-opacity="0.2" stroke="#0175C2" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="431" r="4" fill="#0175C2"/>
+<text x="608" y="435" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">Dart</text>
+<text x="690" y="435" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-23</text>
+<linearGradient id="row6" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="482" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="478" width="678" height="56" rx="10" fill="url(#row6)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="500" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">Doorli-Enterprise-OS</text>
+<text x="42" y="520" font-family="Arial,sans-serif" font-size="10" fill="#9ca3af">Proprietary, isolated Tier-2 enterprise resource plan...</text>
+<rect x="586" y="486" width="80" height="18" rx="9" fill="#3572A5" fill-opacity="0.2" stroke="#3572A5" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="495" r="4" fill="#3572A5"/>
+<text x="608" y="499" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">Python</text>
+<text x="690" y="499" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-17</text>
+<linearGradient id="row7" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="546" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="542" width="678" height="56" rx="10" fill="url(#row7)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="564" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">nexus-core</text>
+<text x="42" y="584" font-family="Arial,sans-serif" font-size="10" fill="#9ca3af">Internal automation and workflow utilities</text>
+<rect x="586" y="550" width="80" height="18" rx="9" fill="#E34F26" fill-opacity="0.2" stroke="#E34F26" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="559" r="4" fill="#E34F26"/>
+<text x="608" y="563" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">HTML</text>
+<text x="690" y="563" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-08-04</text>
+<linearGradient id="row8" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="610" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="606" width="678" height="56" rx="10" fill="url(#row8)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="628" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">AHSANMOHAMMED.github.io</text>
+<rect x="586" y="614" width="80" height="18" rx="9" fill="#8b949e" fill-opacity="0.2" stroke="#8b949e" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="623" r="4" fill="#8b949e"/>
+<text x="608" y="627" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">Unknown</text>
+<text x="690" y="627" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-07-25</text>
+<linearGradient id="row9" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#0d1117" stop-opacity="0.3"/>
+<stop offset="50%" stop-color="#1e293b" stop-opacity="0.15"/>
+<stop offset="100%" stop-color="#0d1117" stop-opacity="0.05"/>
+</linearGradient>
+<rect x="16" y="674" width="4" height="48" rx="2" fill="#1e293b" filter="url(#glow)"/>
+<rect x="26" y="670" width="678" height="56" rx="10" fill="url(#row9)" stroke="#1e293b" stroke-width="1" stroke-opacity="0.3"/>
+<text x="42" y="692" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" filter="url(#glow)">portfolio_upview</text>
+<rect x="586" y="678" width="80" height="18" rx="9" fill="#1572B6" fill-opacity="0.2" stroke="#1572B6" stroke-opacity="0.5" stroke-width="1"/>
+<circle cx="598" cy="687" r="4" fill="#1572B6"/>
+<text x="608" y="691" font-family="Arial,sans-serif" font-size="10" fill="#e5e7eb">CSS</text>
+<text x="690" y="691" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">2026-07-09</text>
+<rect x="16" y="748" width="688" height="1" fill="url(#accent1)" opacity="0.3"/>
+<text x="360" y="768" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#6b7280">Activity: Less → More (color intensity indicates activity level)</text>
 </svg>
