@@ -704,17 +704,15 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-### 🌆 GitHub Skyline — Your Contributions in 3D
+### 🌆 GitHub Skyline — Your Contributions as a 3D City
 
-> Your contribution graph reimagined as a living 3D city skyline.
+> Your contribution graph reimagined as a living 3D city skyline. Each building's height represents daily coding activity.
 
-[![Open Skyline](https://img.shields.io/badge/Open_Skyline-3D_View-06b6d4?style=for-the-badge&logo=github)](https://skyline3d.in/AHSANMOHAMMED)
+<a href="https://skyline3d.in/AHSANMOHAMMED">
+  <img src="./profile-3d-contrib/github-skyline.svg" width="700" alt="GitHub Skyline 3D City" style="max-width: 100%;"/>
+</a>
 
-<sub>
-
-*Click the button above to explore your 3D contribution city. Each building represents a day of coding activity.*
-
-</sub>
+[![Explore Interactive](https://img.shields.io/badge/Explore_Interactively-06b6d4?style=for-the-badge&logo=github)](https://skyline3d.in/AHSANMOHAMMED)
 
 </div>
 
