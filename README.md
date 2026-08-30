@@ -2,7 +2,7 @@
 
 <!-- PROFILE IMAGE -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="https://avatars.githubusercontent.com/AHSANMOHAMMED" width="150" style="border-radius:50%; border: 4px solid #06b6d4;" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
+  <img src="https://avatars.githubusercontent.com/AHSANMOHAMMED" width="128" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
 </a>
 
 <br/>
