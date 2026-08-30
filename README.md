@@ -9,7 +9,7 @@
 <a href="https://github.com/AHSANMOHAMMED">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=dark" />
-    <img src="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=light" width="985" alt="AHSAN M S M GitHub profile dossier" />
+    <img src="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=light" width="985" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka | GitHub Profile Dossier showing repos, contributions, and tech stack" />
   </picture>
 </a>
 
@@ -24,6 +24,13 @@
 [![Followers](https://img.shields.io/github/followers/AHSANMOHAMMED?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AHSANMOHAMMED)
 
 <br/>
+
+
+
+> **Full-Stack Software Engineer | Mobile App Developer | Cloud & DevOps Enthusiast**
+> Building scalable SaaS platforms, multi-tenant ERP/POS systems, and cross-platform mobile applications.
+> Specializing in React, Next.js, Node.js, Flutter, TypeScript, PostgreSQL, Docker, and cloud deployment.
+> Open to internships, collaborations, and software engineering opportunities in Sri Lanka and worldwide.
 
 **🎓 3rd Year Software Engineering Student @ SLIIT, Sri Lanka 🇱🇰**
 **💻 Building Doorli • Enterprise/ERP Systems • Flutter Applications**
@@ -42,7 +49,7 @@
 
 <!-- 3D CONTRIBUTION CALENDAR -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="3D Contribution Calendar" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="AHSAN MOHAMMED GitHub 3D contribution calendar showing 622+ contributions with animated glow effects" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -64,7 +71,7 @@
 
 <!-- PINNED PROJECTS -->
 
-## 📌 Pinned Projects
+## 📌 Pinned Projects — Full-Stack & Mobile Applications
 
 <div align="center">
 
@@ -76,7 +83,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛵 [Doorli](https://github.com/AHSANMOHAMMED/Doorli)
+### 🛵 [Doorli — Multi-Role Commerce Platform](https://github.com/AHSANMOHAMMED/Doorli)
 
 **Multi-role local commerce & operations platform** — connecting customers, vendors, drivers, and operators.
 
@@ -102,7 +109,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🏢 [Doorli Enterprise OS](https://github.com/AHSANMOHAMMED/Doorli-Enterprise-OS)
+### 🏢 [Doorli Enterprise OS — Enterprise Integration Platform](https://github.com/AHSANMOHAMMED/Doorli-Enterprise-OS)
 
 **Enterprise operations & integration platform** — system integrations, workflows, and deployment automation.
 
@@ -129,7 +136,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 [Retail Smart ERP](https://github.com/AHSANMOHAMMED/retail-smart-erp)
+### 🧾 [Retail Smart ERP — Multi-Tenant SaaS POS System](https://github.com/AHSANMOHAMMED/retail-smart-erp)
 
 **Multi-tenant SaaS POS & ERP platform** — supporting retail, restaurants, supermarkets & dealerships.
 
@@ -155,7 +162,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌾 [Farmora](https://github.com/AHSANMOHAMMED/Farmora-App)
+### 🌾 [Farmora — Flutter Agricultural Marketplace](https://github.com/AHSANMOHAMMED/Farmora-App)
 
 **Flutter agricultural marketplace** — connecting farmers, buyers, and transport providers.
 
@@ -187,9 +194,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineering undergraduate at SLIIT** focused on building complete, real-world software products — not isolated demos.
+I'm a **Software Engineering undergraduate at SLIIT, Sri Lanka** focused on building complete, real-world software products — not isolated demos. My expertise spans **full-stack web development, mobile app engineering, cloud infrastructure, and DevOps automation**.
 
-My work spans **local commerce, multi-tenant SaaS, ERP/POS, mobile applications, cloud deployment, distributed systems, and platform integrations**.
+My work spans **local commerce, multi-tenant SaaS, ERP/POS systems, mobile applications (Flutter & React Native), cloud deployment (Oracle Cloud, Docker), distributed systems (Kafka, Redis), and platform integrations**.
 
 I thrive across the entire engineering lifecycle — from React/Next.js interfaces and Flutter apps to APIs, databases, auth, real-time systems, Docker infrastructure, CI/CD, and production deployment.
 
@@ -562,7 +569,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### 🎨 Skills at a Glance — 3D View
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/skill-icons-3d.svg" width="550" alt="3D Skill Icons" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/skill-icons-3d.svg" width="550" alt="AHSAN MOHAMMED 3D technology stack — TypeScript, React, Next.js, Node.js, Flutter, Docker, PostgreSQL and more" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -686,7 +693,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### 📊 3D Contribution Calendar
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="3D Contribution Calendar" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="AHSAN MOHAMMED GitHub 3D contribution calendar showing 622+ contributions with animated glow effects" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -709,7 +716,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 > Your contribution graph reimagined as a living 3D city skyline. Each building's height represents daily coding activity.
 
 <a href="https://skyline3d.in/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/github-skyline.svg" width="800" alt="GitHub Skyline 3D City" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/github-skyline.svg" width="800" alt="AHSAN MOHAMMED GitHub Skyline — 3D isometric city visualization of 622+ contributions" style="max-width: 100%;"/>
 </a>
 
 [![Explore Interactive](https://img.shields.io/badge/Explore_Interactively-06b6d4?style=for-the-badge&logo=github)](https://skyline3d.in/AHSANMOHAMMED)
@@ -726,7 +733,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### ⏱️ Weekly Coding Activity
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/coding-activity.svg" width="800" alt="Weekly Coding Activity — WakaTime Style" style="max-width: 100%;"/>
+  <img src="./profile-3d-contrib/coding-activity.svg" width="800" alt="AHSAN MOHAMMED weekly coding activity breakdown — hours by day, language distribution, editor usage" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -961,6 +968,22 @@ I'm looking for opportunities where I can contribute to **real software products
 
 ---
 
+
+
+---
+
+<div align="center">
+
+### 🔍 SEO Keywords
+
+`Full-Stack Developer` · `Software Engineer Sri Lanka` · `React Developer` · `Next.js Developer` · `Node.js Developer` · `Flutter Developer` · `TypeScript` · `PostgreSQL` · `Docker` · `Cloud Deployment` · `ERP Systems` · `POS Systems` · `SaaS Platform` · `Multi-Tenant Architecture` · `Mobile App Development` · `DevOps` · `GitHub Actions` · `Linux` · `Nginx` · `Oracle Cloud` · `SLIIT` · `AHSAN MOHAMMED`
+
+</div>
+
+<div align="center">
+
 ### 💻 Build useful software. Learn continuously. Engineer for real-world impact.
+
+</div>
 
 </div>
