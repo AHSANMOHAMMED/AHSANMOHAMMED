@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header" width="985" />
+
 
 <br/>
 
@@ -62,8 +62,6 @@
 ---
 
 <div align="center">
-
-### ⚡ Quick Stats
 
 ![Repos](https://img.shields.io/badge/Repos-21-06b6d4?style=for-the-badge&logo=github)
 ![Total+Stars](https://img.shields.io/badge/Total_Stars-12-FFD700?style=for-the-badge&logo=github)
@@ -571,8 +569,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-### 🎨 Skills at a Glance
-
 <p>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,python,java,kotlin&perline=5&theme=dark" />
@@ -597,7 +593,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-*Proficiency levels based on project depth, production usage, and hands-on engineering experience.*
+
 
 </div>
 
@@ -709,8 +705,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-### 📊 3D Contribution Calendar
-
 <a href="https://github.com/AHSANMOHAMMED">
   <img src="./profile-3d-contrib/profile-season-animate.svg" width="500" alt="AHSAN MOHAMMED GitHub 3D contribution calendar showing 622+ contributions with animated glow effects" style="max-width: 100%;"/>
 </a>
@@ -749,8 +743,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 <!-- REPO HEATMAP -->
 <div align="center">
 
-### 📦 Repository Activity Heatmap
-
 <a href="https://github.com/AHSANMOHAMMED?tab=repositories">
   <img src="./profile-3d-contrib/repo-heatmap.svg" width="750" alt="AHSAN MOHAMMED repository activity heatmap — stars, forks, language, and recency per repo" style="max-width: 100%;"/>
 </a>
@@ -763,8 +755,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- CODING ACTIVITY -->
 <div align="center">
-
-### ⏱️ Weekly Coding Activity
 
 <a href="https://github.com/AHSANMOHAMMED">
   <img src="./profile-3d-contrib/coding-activity.svg" width="800" alt="AHSAN MOHAMMED weekly coding activity breakdown — hours by day, language distribution, editor usage" style="max-width: 100%;"/>
