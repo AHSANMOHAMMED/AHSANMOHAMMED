@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- PROFILE IMAGE -->
+<!-- PROFILE IMAGE (circular with cyan border) -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="https://avatars.githubusercontent.com/AHSANMOHAMMED" width="128" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
+  <img src="./profile-3d-contrib/profile-avatar.svg" width="200" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
 </a>
 
-<br/>
 <br/>
 
 <!-- TYPING SVG -->
@@ -13,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Building+Scalable+SaaS+%26+ERP+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
-<br/>
 <br/>
 
 <!-- BADGES -->
