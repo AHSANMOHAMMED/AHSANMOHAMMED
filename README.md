@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:06b6d4&height=220&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%26%20Platform%20Developer&descSize=16&descAlignY=55&animation=fadeIn&color2=0:1e293b,50:0284c7,100:0891b2" width="100%"/>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:06b6d4&height=220&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%26%20Platform%20Developer&descSize=16&descAlignY=55&color2=0:1e293b,50:0284c7,100:0891b2)
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -28,7 +28,7 @@
 
 <!-- PINNED PROJECTS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 ## 📌 Pinned Projects
@@ -152,7 +152,7 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=about" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=about)
 </div>
 
 ### 👨‍💻 About Me
@@ -214,7 +214,7 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 </table>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=30&section=footer" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=30&section=footer)
 </div>
 
 ---
@@ -224,7 +224,7 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 
 ### 🚀 Featured Projects
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=60" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=60)
 
 </div>
 
@@ -407,7 +407,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- TECH STACK -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 # 🛠️ Technology Stack
@@ -498,7 +498,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- FEATURED SKILLS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80)
 </div>
 
 # 🎯 Featured Skills
@@ -597,17 +597,15 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- GITHUB STATS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/AHSANMOHAMMED">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=06b6d4&icon_color=0ea5e9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" alt="Top Languages" />
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AHSANMOHAMMED&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=06b6d4&icon_color=0ea5e9)](https://github.com/AHSANMOHAMMED)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AHSANMOHAMMED&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4)](https://github.com/AHSANMOHAMMED)
 
 </div>
 
@@ -623,21 +621,15 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-<a href="https://github.com/AHSANMOHAMMED">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AHSANMOHAMMED&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06b6d4&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&area_opacity=30" alt="GitHub Activity Graph" />
-</a>
+### 🐍 Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 <br/>
 
-<div align="center">
 
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AHSANMOHAMMED&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-</div>
 
 <sub>
 
@@ -649,7 +641,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- ARCHITECTURE -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80)
 </div>
 
 # 🧩 Engineering Interests
@@ -785,7 +777,7 @@ Distributed Systems
 
 <!-- CURRENT FOCUS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 # 🔨 Current Focus
@@ -825,7 +817,7 @@ const currentFocus = {
 
 <!-- CAREER & CONTACT -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80)
 </div>
 
 # 🎯 Career Direction
@@ -854,7 +846,7 @@ I'm looking for opportunities where I can contribute to **real software products
 <!-- CONNECT -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 
 ## 🤝 Let's Connect
 
@@ -879,12 +871,12 @@ I'm looking for opportunities where I can contribute to **real software products
 <div align="center">
 
 <!-- SNAKE ANIMATION -->
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 💻 Build useful software. Learn continuously. Engineer for real-world impact.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=40&section=footer" />
+![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=40&section=footer)
 
 </div>
