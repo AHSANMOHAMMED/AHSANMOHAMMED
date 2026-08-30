@@ -24,9 +24,18 @@
 
 <br/>
 
+<!-- MOTIVATIONAL QUOTE -->
+<sub>
+
+> 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</sub>
+
+<br/>
+
 <!-- 3D CONTRIBUTION CALENDAR -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="400" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="400" alt="3D Contribution Calendar"/>
 </a>
 
 </div>
@@ -623,10 +632,8 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### 📊 3D Contribution Calendar
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="400" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="400" alt="3D Contribution Calendar"/>
 </a>
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/AHSANMOHAMMED)](https://github.com/AHSANMOHAMMED)
 
 </div>
 
