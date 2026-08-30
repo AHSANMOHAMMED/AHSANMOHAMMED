@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+SaaS+%26+Platform+Products;Full-Stack+%7C+Mobile+%7C+Cloud+%7C+DevOps;Multi-Tenant+ERP+%2F+POS+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
+<br/>
+<br/>
+
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-AHSANMOHAMMED-181717?style=for-the-badge&logo=github)](https://github.com/AHSANMOHAMMED)
 [![Latest Commit](https://img.shields.io/github/last-commit/AHSANMOHAMMED/AHSANMOHAMMED?style=for-the-badge&label=Latest%20Commit&color=22c55e)](https://github.com/AHSANMOHAMMED/commits)
@@ -610,9 +613,9 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 📊 Contribution Graph
 
-![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/AHSANMOHAMMED)](https://github.com/AHSANMOHAMMED)
 
 </div>
 
