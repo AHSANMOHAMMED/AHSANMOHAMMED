@@ -35,14 +35,12 @@
 
 <!-- 3D CONTRIBUTION CALENDAR -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="400" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="350" alt="3D Contribution Calendar" style="max-width: 100%;"/>
 </a>
 
 </div>
 
 ---
-
-
 
 <div align="center">
 
@@ -58,8 +56,6 @@
 </div>
 
 <!-- PINNED PROJECTS -->
-<div align="center">
-</div>
 
 ## 📌 Pinned Projects
 
@@ -181,8 +177,6 @@
 ---
 
 <!-- ABOUT ME -->
-<div align="center">
-</div>
 
 ### 👨‍💻 About Me
 
@@ -242,16 +236,11 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 </tr>
 </table>
 
-<div align="center">
-</div>
-
-
+<br/>
 
 ---
 
 <!-- GITHUB JOURNEY -->
-<div align="center">
-</div>
 
 ### 🗺️ GitHub Journey
 
@@ -282,6 +271,8 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 </tr>
 </table>
 
+
+<br/>
 
 ---
 
@@ -470,9 +461,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 ---
 
 <!-- TECH STACK -->
-<div align="center">
-</div>
-
 # 🛠️ Technology Stack
 
 <table>
@@ -560,9 +548,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 ---
 
 <!-- FEATURED SKILLS -->
-<div align="center">
-</div>
-
 
 
 <div align="center">
@@ -571,19 +556,19 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,python,java,kotlin&perline=5" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,python,java,kotlin&perline=5" width="400" />
 </a>
 </p>
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,postgres,mongodb,redis,firebase,kafka&perline=5" />
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,postgres,mongodb,redis,firebase,kafka&perline=5" width="400" />
 </a>
 </p>
 
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite,express,graphql,elasticsearch,minio,oracle,flutter&perline=5" />
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite,express,graphql,elasticsearch,minio,oracle,flutter&perline=5" width="400" />
 </a>
 </p>
 
@@ -684,9 +669,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 ---
 
 <!-- GITHUB STATS -->
-<div align="center">
-</div>
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -711,7 +693,7 @@ Developer tooling and IDE experimentation focused on modern software-development
 ### 📊 3D Contribution Calendar
 
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="400" alt="3D Contribution Calendar"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="350" alt="3D Contribution Calendar" style="max-width: 100%;"/>
 </a>
 
 </div>
@@ -719,10 +701,11 @@ Developer tooling and IDE experimentation focused on modern software-development
 <br/>
 
 
-
 <sub>
 
 > GitHub statistics are generated dynamically so the profile stays current without hard-coded numbers.
+
+</sub>
 
 <br/>
 
@@ -742,16 +725,11 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 </div>
 
-
-
-</sub>
+<br/>
 
 ---
 
 <!-- ARCHITECTURE -->
-<div align="center">
-</div>
-
 # 🧩 Engineering Interests
 
 <table>
@@ -881,12 +859,11 @@ Distributed Systems
 
 </div>
 
+<br/>
+
 ---
 
 <!-- CURRENT FOCUS -->
-<div align="center">
-</div>
-
 # 🔨 Current Focus
 
 <div align="center">
@@ -920,12 +897,11 @@ const currentFocus = {
 
 </div>
 
+<br/>
+
 ---
 
 <!-- CAREER & CONTACT -->
-<div align="center">
-</div>
-
 # 🎯 Career Direction
 
 I'm looking for opportunities where I can contribute to **real software products** while continuing to grow as a software engineer.
@@ -946,6 +922,8 @@ I'm looking for opportunities where I can contribute to **real software products
 > 💡 *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
+
+<br/>
 
 ---
 
