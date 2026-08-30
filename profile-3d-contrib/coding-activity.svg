@@ -3,48 +3,43 @@
 <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#111820"/></linearGradient>
 <linearGradient id="barGrad" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#22c55e"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
 <linearGradient id="todayGrad" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
-<linearGradient id="donutGrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3178C6"/><stop offset="100%" stop-color="#235CD7"/></linearGradient>
-<linearGradient id="donutGrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3572A5"/><stop offset="100%" stop-color="#2C5F8A"/></linearGradient>
-<linearGradient id="donutGrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F7DF1E"/><stop offset="100%" stop-color="#D4B800"/></linearGradient>
-<linearGradient id="donutGrad4" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0175C2"/><stop offset="100%" stop-color="#015A9E"/></linearGradient>
-<linearGradient id="donutGrad5" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#E34F26"/><stop offset="100%" stop-color="#C93412"/></linearGradient>
 <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
 <filter id="glow2"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="750" height="380" fill="url(#bg2)" rx="12"/>
 <text x="24" y="36" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#e5e7eb">⏱️ Weekly Coding Activity</text>
-<text x="24" y="56" font-family="Arial,sans-serif" font-size="11" fill="#6b7280">29.1 hrs this week — WakaTime-style breakdown</text>
+<text x="24" y="56" font-family="Arial,sans-serif" font-size="11" fill="#6b7280">39.7 hrs this week — WakaTime-style breakdown</text>
 <text x="50" y="304.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">0.0h</text>
 <line x1="60" y1="300.0" x2="440" y2="300.0" stroke="#1e293b" stroke-width="1"/>
-<text x="50" y="249.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">1.6h</text>
+<text x="50" y="249.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">6.5h</text>
 <line x1="60" y1="245.0" x2="440" y2="245.0" stroke="#1e293b" stroke-width="1"/>
-<text x="50" y="194.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">3.1h</text>
+<text x="50" y="194.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">12.9h</text>
 <line x1="60" y1="190.0" x2="440" y2="190.0" stroke="#1e293b" stroke-width="1"/>
-<text x="50" y="139.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">4.7h</text>
+<text x="50" y="139.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">19.4h</text>
 <line x1="60" y1="135.0" x2="440" y2="135.0" stroke="#1e293b" stroke-width="1"/>
-<text x="50" y="84.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">6.2h</text>
+<text x="50" y="84.0" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#6b7280">25.9h</text>
 <line x1="60" y1="80.0" x2="440" y2="80.0" stroke="#1e293b" stroke-width="1"/>
-<rect x="76.0" y="117.96774193548387" width="36" height="182.03225806451613" rx="6" fill="url(#barGrad)"/>
-<text x="94.0" y="109.96774193548387" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">5.7h</text>
+<rect x="76.0" y="293.88416988416986" width="36" height="6.115830115830117" rx="6" fill="url(#barGrad)"/>
+<text x="94.0" y="285.88416988416986" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">0.8h</text>
 <text x="94.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#9ca3af">Mon</text>
-<rect x="128.0" y="216.96774193548384" width="36" height="83.03225806451614" rx="6" fill="url(#barGrad)"/>
-<text x="146.0" y="208.96774193548384" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">2.6h</text>
+<rect x="128.0" y="288.5328185328185" width="36" height="11.467181467181467" rx="6" fill="url(#barGrad)"/>
+<text x="146.0" y="280.5328185328185" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">1.5h</text>
 <text x="146.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#9ca3af">Tue</text>
-<rect x="180.0" y="175.4516129032258" width="36" height="124.54838709677419" rx="6" fill="url(#barGrad)"/>
-<text x="198.0" y="167.4516129032258" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">3.9h</text>
+<rect x="180.0" y="291.5907335907336" width="36" height="8.409266409266412" rx="6" fill="url(#barGrad)"/>
+<text x="198.0" y="283.5907335907336" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">1.1h</text>
 <text x="198.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#9ca3af">Wed</text>
-<rect x="232.0" y="185.0322580645161" width="36" height="114.96774193548389" rx="6" fill="url(#barGrad)"/>
-<text x="250.0" y="177.0322580645161" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">3.6h</text>
+<rect x="232.0" y="293.11969111969114" width="36" height="6.88030888030888" rx="6" fill="url(#barGrad)"/>
+<text x="250.0" y="285.11969111969114" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">0.9h</text>
 <text x="250.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#9ca3af">Thu</text>
-<rect x="284.0" y="102.0" width="36" height="198.0" rx="6" fill="url(#barGrad)"/>
-<text x="302.0" y="94.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">6.2h</text>
+<rect x="284.0" y="253.36679536679537" width="36" height="46.633204633204635" rx="6" fill="url(#barGrad)"/>
+<text x="302.0" y="245.36679536679537" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">6.1h</text>
 <text x="302.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#9ca3af">Fri</text>
-<rect x="336.0" y="111.5806451612903" width="36" height="188.4193548387097" rx="6" fill="url(#barGrad)"/>
-<text x="354.0" y="103.5806451612903" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">5.9h</text>
+<rect x="336.0" y="274.007722007722" width="36" height="25.992277992277998" rx="6" fill="url(#barGrad)"/>
+<text x="354.0" y="266.007722007722" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#e5e7eb">3.4h</text>
 <text x="354.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#9ca3af">Sat</text>
-<rect x="386.0" y="259.6774193548387" width="40" height="42.32258064516129" rx="6" fill="#8b5cf6" opacity="0.2" filter="url(#glow2)"/>
-<rect x="388.0" y="261.6774193548387" width="36" height="38.32258064516129" rx="6" fill="url(#todayGrad)"/>
-<text x="406.0" y="253.67741935483872" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#a78bfa">1.2h</text>
+<rect x="386.0" y="100.0" width="40" height="202.0" rx="6" fill="#8b5cf6" opacity="0.2" filter="url(#glow2)"/>
+<rect x="388.0" y="102.0" width="36" height="198.0" rx="6" fill="url(#todayGrad)"/>
+<text x="406.0" y="94.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#a78bfa">25.9h</text>
 <text x="406.0" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#a78bfa">Sun</text>
 <text x="406.0" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#a78bfa">▲ today</text>
 <text x="590" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#e5e7eb">Languages</text>
@@ -72,4 +67,5 @@
 <text x="552" y="319" font-family="Arial,sans-serif" font-size="9" fill="#9ca3af">HTML 6.2%</text>
 <rect x="630" y="311" width="8" height="8" rx="2" fill="#1572B6"/>
 <text x="642" y="319" font-family="Arial,sans-serif" font-size="9" fill="#9ca3af">CSS 4.8%</text>
+<text x="375" y="368" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#4b5563">Generated 2026-08-30 • Today: Sun</text>
 </svg>
