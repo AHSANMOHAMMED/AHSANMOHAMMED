@@ -552,25 +552,11 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-### 🎨 Skills at a Glance
+### 🎨 Skills at a Glance — 3D View
 
-<p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,python,java,kotlin&perline=5" width="400" />
+<a href="https://github.com/AHSANMOHAMMED">
+  <img src="./profile-3d-contrib/skill-icons-3d.svg" width="450" alt="3D Skill Icons" style="max-width: 100%;"/>
 </a>
-</p>
-
-<p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,postgres,mongodb,redis,firebase,kafka&perline=5" width="400" />
-</a>
-</p>
-
-<p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite,express,graphql,elasticsearch,minio,oracle,flutter&perline=5" width="400" />
-</a>
-</p>
 
 </div>
 

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 556" width="480" height="556">
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#0d1117"/>
+<stop offset="100%" stop-color="#161b22"/>
+</linearGradient>
+</defs>
+<rect width="480" height="556" fill="url(#bg2)" rx="12"/>
+<text x="240" y="28" text-anchor="middle" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="16" font-weight="bold">🛠️ Technology Stack — 3D View</text>
+<polygon points="50,50 102,50 112,40 60,40" fill="#63aaf8" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="102,50 112,40 112,92 102,102" fill="#003c8a" stroke="#30363d" stroke-width="0.8"/>
+<rect x="50" y="50" width="52" height="52" fill="#3178C6" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="76" y="80" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">TS</text>
+<polygon points="126,50 178,50 188,40 136,40" fill="#ffff50" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="178,50 188,40 188,92 178,102" fill="#bba300" stroke="#30363d" stroke-width="0.8"/>
+<rect x="126" y="50" width="52" height="52" fill="#F7DF1E" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="152" y="80" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">JS</text>
+<polygon points="202,50 254,50 264,40 212,40" fill="#93ffff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="254,50 264,40 264,92 254,102" fill="#259ebf" stroke="#30363d" stroke-width="0.8"/>
+<rect x="202" y="50" width="52" height="52" fill="#61DAFB" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="228" y="80" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Re</text>
+<polygon points="278,50 330,50 340,40 288,40" fill="#323232" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="330,50 340,40 340,92 330,102" fill="#000000" stroke="#30363d" stroke-width="0.8"/>
+<rect x="278" y="50" width="52" height="52" fill="#000000" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="304" y="80" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Nx</text>
+<polygon points="354,50 406,50 416,40 364,40" fill="#65cb65" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="406,50 416,40 416,92 406,102" fill="#005d00" stroke="#30363d" stroke-width="0.8"/>
+<rect x="354" y="50" width="52" height="52" fill="#339933" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="380" y="80" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Nd</text>
+<polygon points="50,126 102,126 112,116 60,116" fill="#3488cd" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="102,126 112,116 112,168 102,178" fill="#001a5f" stroke="#30363d" stroke-width="0.8"/>
+<rect x="50" y="126" width="52" height="52" fill="#02569B" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="76" y="156" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Fl</text>
+<polygon points="126,126 178,126 188,116 136,116" fill="#33a7f4" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="178,126 188,116 188,168 178,178" fill="#003986" stroke="#30363d" stroke-width="0.8"/>
+<rect x="126" y="126" width="52" height="52" fill="#0175C2" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="152" y="156" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Da</text>
+<polygon points="202,126 254,126 264,116 212,116" fill="#69a8dd" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="254,126 264,116 264,168 254,178" fill="#003a6f" stroke="#30363d" stroke-width="0.8"/>
+<rect x="202" y="126" width="52" height="52" fill="#3776AB" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="228" y="156" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Py</text>
+<polygon points="278,126 330,126 340,116 288,116" fill="#ffbd32" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="330,126 340,116 340,168 330,178" fill="#b14f00" stroke="#30363d" stroke-width="0.8"/>
+<rect x="278" y="126" width="52" height="52" fill="#ED8B00" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="304" y="156" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Jv</text>
+<polygon points="354,126 406,126 416,116 364,116" fill="#b184ff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="406,126 416,116 416,168 406,178" fill="#4316c3" stroke="#30363d" stroke-width="0.8"/>
+<rect x="354" y="126" width="52" height="52" fill="#7F52FF" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="380" y="156" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Kt</text>
+<polygon points="50,202 102,202 112,192 60,192" fill="#56c8ff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="102,202 112,192 112,244 102,254" fill="#005ab1" stroke="#30363d" stroke-width="0.8"/>
+<rect x="50" y="202" width="52" height="52" fill="#2496ED" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="76" y="232" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Dk</text>
+<polygon points="126,202 178,202 188,192 136,192" fill="#fff856" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="178,202 188,192 188,244 178,254" fill="#c08a00" stroke="#30363d" stroke-width="0.8"/>
+<rect x="126" y="202" width="52" height="52" fill="#FCC624" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="152" y="232" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Ln</text>
+<polygon points="202,202 254,202 264,192 212,192" fill="#32c86b" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="254,202 264,192 264,244 254,254" fill="#005a00" stroke="#30363d" stroke-width="0.8"/>
+<rect x="202" y="202" width="52" height="52" fill="#009639" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="228" y="232" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Ng</text>
+<polygon points="278,202 330,202 340,192 288,192" fill="#ff8264" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="330,202 340,192 340,244 330,254" fill="#b41400" stroke="#30363d" stroke-width="0.8"/>
+<rect x="278" y="202" width="52" height="52" fill="#F05032" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="304" y="232" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Gt</text>
+<polygon points="354,202 406,202 416,192 364,192" fill="#52baff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="406,202 416,192 416,244 406,254" fill="#004cc3" stroke="#30363d" stroke-width="0.8"/>
+<rect x="354" y="202" width="52" height="52" fill="#2088FF" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="380" y="232" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">GH</text>
+<polygon points="50,278 102,278 112,268 60,268" fill="#739bff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="102,278 112,268 112,320 102,330" fill="#052da5" stroke="#30363d" stroke-width="0.8"/>
+<rect x="50" y="278" width="52" height="52" fill="#4169E1" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="76" y="308" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Pg</text>
+<polygon points="126,278 178,278 188,268 136,268" fill="#79d47a" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="178,278 188,268 188,320 178,330" fill="#0b660c" stroke="#30363d" stroke-width="0.8"/>
+<rect x="126" y="278" width="52" height="52" fill="#47A248" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="152" y="308" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Mb</text>
+<polygon points="202,278 254,278 264,268 212,268" fill="#ff766a" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="254,278 264,268 264,320 254,330" fill="#c30800" stroke="#30363d" stroke-width="0.8"/>
+<rect x="202" y="278" width="52" height="52" fill="#FF4438" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="228" y="308" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Rd</text>
+<polygon points="278,278 330,278 340,268 288,268" fill="#ff5e32" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="330,278 340,268 340,320 330,330" fill="#a10000" stroke="#30363d" stroke-width="0.8"/>
+<rect x="278" y="278" width="52" height="52" fill="#DD2C00" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="304" y="308" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Fb</text>
+<polygon points="354,278 406,278 416,268 364,268" fill="#555152" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="406,278 416,268 416,320 406,330" fill="#000000" stroke="#30363d" stroke-width="0.8"/>
+<rect x="354" y="278" width="52" height="52" fill="#231F20" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="380" y="308" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Kf</text>
+<polygon points="50,354 102,354 112,344 60,344" fill="#38e8ff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="102,354 112,344 112,396 102,406" fill="#007a98" stroke="#30363d" stroke-width="0.8"/>
+<rect x="50" y="354" width="52" height="52" fill="#06B6D4" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="76" y="384" text-anchor="middle" fill="#000000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Tw</text>
+<polygon points="126,354 178,354 188,344 136,344" fill="#ff8158" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="178,354 188,344 188,396 178,406" fill="#a71300" stroke="#30363d" stroke-width="0.8"/>
+<rect x="126" y="354" width="52" height="52" fill="#E34F26" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="152" y="384" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">H5</text>
+<polygon points="202,354 254,354 264,344 212,344" fill="#47a4e8" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="254,354 264,344 264,396 254,406" fill="#00367a" stroke="#30363d" stroke-width="0.8"/>
+<rect x="202" y="354" width="52" height="52" fill="#1572B6" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="228" y="384" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">C3</text>
+<polygon points="278,354 330,354 340,344 288,344" fill="#969eff" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="330,354 340,344 340,396 330,406" fill="#2830c3" stroke="#30363d" stroke-width="0.8"/>
+<rect x="278" y="354" width="52" height="52" fill="#646CFF" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="304" y="384" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Vi</text>
+<polygon points="354,354 406,354 416,344 364,344" fill="#323232" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="406,354 416,344 416,396 406,406" fill="#000000" stroke="#30363d" stroke-width="0.8"/>
+<rect x="354" y="354" width="52" height="52" fill="#000000" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="380" y="384" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Ex</text>
+<polygon points="50,430 102,430 112,420 60,420" fill="#ff32ca" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="102,430 112,420 112,472 102,482" fill="#a5005c" stroke="#30363d" stroke-width="0.8"/>
+<rect x="50" y="430" width="52" height="52" fill="#E10098" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="76" y="460" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Gq</text>
+<polygon points="126,430 178,430 188,420 136,420" fill="#3287a3" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="178,430 188,420 188,472 178,482" fill="#001935" stroke="#30363d" stroke-width="0.8"/>
+<rect x="126" y="430" width="52" height="52" fill="#005571" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="152" y="460" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Es</text>
+<polygon points="202,430 254,430 264,420 212,420" fill="#f95e7d" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="254,430 264,420 264,472 254,482" fill="#8b000f" stroke="#30363d" stroke-width="0.8"/>
+<rect x="202" y="430" width="52" height="52" fill="#C72C4B" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="228" y="460" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Mi</text>
+<polygon points="278,430 330,430 340,420 288,420" fill="#ff3232" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="330,430 340,420 340,472 330,482" fill="#bc0000" stroke="#30363d" stroke-width="0.8"/>
+<rect x="278" y="430" width="52" height="52" fill="#F80000" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="304" y="460" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Or</text>
+<polygon points="354,430 406,430 416,420 364,420" fill="#3488cd" stroke="#30363d" stroke-width="0.8"/>
+<polygon points="406,430 416,420 416,472 406,482" fill="#001a5f" stroke="#30363d" stroke-width="0.8"/>
+<rect x="354" y="430" width="52" height="52" fill="#02569B" stroke="#30363d" stroke-width="0.8" rx="4"/>
+<text x="380" y="460" text-anchor="middle" fill="#ffffff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">Fl2</text>
+</svg>
