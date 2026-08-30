@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:06b6d4&height=220&section=header&text=AHSAN%20MOHAMMED&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20%26%20Platform%20Developer&descSize=16&descAlignY=55&color2=0:1e293b,50:0284c7,100:0891b2)
-
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+SaaS+%26+Platform+Products;Full-Stack+%7C+Mobile+%7C+Cloud+%7C+DevOps;Multi-Tenant+ERP+%2F+POS+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
@@ -28,7 +25,6 @@
 
 <!-- PINNED PROJECTS -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 ## 📌 Pinned Projects
@@ -152,7 +148,6 @@
 
 <!-- ABOUT ME -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80&section=about)
 </div>
 
 ### 👨‍💻 About Me
@@ -214,7 +209,6 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 </table>
 
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=30&section=footer)
 </div>
 
 ---
@@ -223,8 +217,6 @@ I thrive across the entire engineering lifecycle — from React/Next.js interfac
 <div align="center">
 
 ### 🚀 Featured Projects
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=60)
 
 </div>
 
@@ -407,7 +399,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- TECH STACK -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 # 🛠️ Technology Stack
@@ -498,7 +489,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- FEATURED SKILLS -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80)
 </div>
 
 # 🎯 Featured Skills
@@ -597,7 +587,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- GITHUB STATS -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 # 📊 GitHub Analytics
@@ -641,7 +630,6 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <!-- ARCHITECTURE -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80)
 </div>
 
 # 🧩 Engineering Interests
@@ -777,7 +765,6 @@ Distributed Systems
 
 <!-- CURRENT FOCUS -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 </div>
 
 # 🔨 Current Focus
@@ -817,7 +804,6 @@ const currentFocus = {
 
 <!-- CAREER & CONTACT -->
 <div align="center">
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:06b6d4&height=80)
 </div>
 
 # 🎯 Career Direction
@@ -845,8 +831,6 @@ I'm looking for opportunities where I can contribute to **real software products
 
 <!-- CONNECT -->
 <div align="center">
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0ea5e9&height=80)
 
 ## 🤝 Let's Connect
 
@@ -876,7 +860,5 @@ I'm looking for opportunities where I can contribute to **real software products
 ---
 
 ### 💻 Build useful software. Learn continuously. Engineer for real-world impact.
-
-![divider](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:06b6d4&height=40&section=footer)
 
 </div>
