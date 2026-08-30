@@ -7,7 +7,7 @@
 
 <!-- PROFILE IMAGE -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <img src="https://avatars.githubusercontent.com/u/AHSANMOHAMMED" width="150" style="border-radius:50%; border: 4px solid #06b6d4; box-shadow: 0 0 20px rgba(6,182,212,0.3);" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
+  <img src="https://avatars.githubusercontent.com/AHSANMOHAMMED" width="150" style="border-radius:50%; border: 4px solid #06b6d4; box-shadow: 0 0 20px rgba(6,182,212,0.3);" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
 </a>
 
 <br/>
@@ -571,11 +571,25 @@ Developer tooling and IDE experimentation focused on modern software-development
 
 <div align="center">
 
-### 🎨 Skills at a Glance — 3D View
+### 🎨 Skills at a Glance
 
-<a href="https://github.com/AHSANMOHAMMED">
-  <img src="./profile-3d-contrib/skill-icons-3d.svg" width="550" alt="AHSAN MOHAMMED 3D technology stack — TypeScript, React, Next.js, Node.js, Flutter, Docker, PostgreSQL and more" style="max-width: 100%;"/>
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,python,java,kotlin&perline=5&theme=dark" />
 </a>
+</p>
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,postgres,mongodb,redis,firebase,kafka&perline=5&theme=dark" />
+</a>
+</p>
+
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,vite,express,graphql,elasticsearch,minio,oracle,react&perline=5&theme=dark" />
+</a>
+</p>
 
 </div>
 
