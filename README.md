@@ -854,8 +854,6 @@ I'm looking for opportunities where I can contribute to **real software products
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
