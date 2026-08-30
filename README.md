@@ -1,19 +1,24 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header" width="985" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header" width="985" />
 
-</div>
+<br/>
 
-<!-- GITSKINS PROFILE DOSSIER -->
+<!-- PROFILE IMAGE -->
 <a href="https://github.com/AHSANMOHAMMED">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=dark" />
-    <img src="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=light" width="985" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka | GitHub Profile Dossier showing repos, contributions, and tech stack" />
-  </picture>
+  <img src="https://avatars.githubusercontent.com/u/AHSANMOHAMMED" width="150" style="border-radius:50%; border: 4px solid #06b6d4; box-shadow: 0 0 20px rgba(6,182,212,0.3);" alt="AHSAN M S M — Full-Stack Developer from Sri Lanka" />
 </a>
 
-<div align="center">
+<br/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Building+Scalable+SaaS+%26+ERP+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
 
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-AHSANMOHAMMED-181717?style=for-the-badge&logo=github)](https://github.com/AHSANMOHAMMED)
