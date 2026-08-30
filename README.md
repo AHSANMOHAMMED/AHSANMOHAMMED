@@ -1,12 +1,19 @@
 <div align="center">
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+SaaS+%26+Platform+Products;Full-Stack+%7C+Mobile+%7C+Cloud+%7C+DevOps;Multi-Tenant+ERP+%2F+POS+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header" width="985" />
+
+</div>
+
+<!-- GITSKINS PROFILE DOSSIER -->
+<a href="https://github.com/AHSANMOHAMMED">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=dark" />
+    <img src="https://www.gitskins.com/api/readme-reference/profile-dossier?username=AHSANMOHAMMED&theme=github-dark&mode=light" width="985" alt="AHSAN M S M GitHub profile dossier" />
+  </picture>
 </a>
 
-<br/>
-<br/>
+<div align="center">
 
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-AHSANMOHAMMED-181717?style=for-the-badge&logo=github)](https://github.com/AHSANMOHAMMED)
