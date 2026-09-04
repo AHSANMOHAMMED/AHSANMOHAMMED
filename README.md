@@ -16,6 +16,7 @@
 
 <!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-AHSANMOHAMMED-181717?style=for-the-badge&logo=github)](https://github.com/AHSANMOHAMMED)
+[![Latest Commit](https://raw.githubusercontent.com/AHSANMOHAMMED/AHSANMOHAMMED/output/latest-commit.svg)](https://github.com/AHSANMOHAMMED/AHSANMOHAMMED/commits/main)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-m-s-m-13048b324/)
 [![Email](https://img.shields.io/badge/Email-ahsanmohammed828-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohammed828@gmail.com)
 [![Followers](https://img.shields.io/github/followers/AHSANMOHAMMED?style=for-the-badge&logo=github&color=06b6d4)](https://github.com/AHSANMOHAMMED)
