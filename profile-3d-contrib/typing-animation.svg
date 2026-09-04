@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 220" width="620" height="220">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a0e14"/><stop offset="50%" stop-color="#111820"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="sub-grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft-glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.5"/></filter>
+<filter id="text-glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="10" y="10" width="600" height="200" rx="16" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.08)" stroke-width="1" filter="url(#shadow)"/>
+<rect x="10" y="10" width="600" height="100" rx="16" fill="rgba(255,255,255,0.02)"/>
+<circle cx="120" cy="80" r="80" fill="#06b6d4" opacity="0.04"><animate attributeName="cx" values="120;140;120" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="140" r="60" fill="#8b5cf6" opacity="0.04"><animate attributeName="cy" values="140;120;140" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="110" r="90" fill="#3b82f6" opacity="0.02"><animate attributeName="r" values="90;110;90" dur="12s" repeatCount="indefinite"/></circle>
+<rect x="10" y="10" width="600" height="3" rx="1.5" fill="url(#accent)" filter="url(#soft-glow)"/>
+<circle cx="30" cy="28" r="5" fill="#ef4444" opacity="0.7"/>
+<circle cx="30" cy="28" r="3" fill="#ef4444" opacity="0.3"/>
+<circle cx="48" cy="28" r="5" fill="#f59e0b" opacity="0.7"/>
+<circle cx="48" cy="28" r="3" fill="#f59e0b" opacity="0.3"/>
+<circle cx="66" cy="28" r="5" fill="#22c55e" opacity="0.7"/>
+<circle cx="66" cy="28" r="3" fill="#22c55e" opacity="0.3"/>
+<text x="590" y="32" text-anchor="end" font-family="monospace" font-size="11" fill="#475569">term ~</text>
+<text x="310" y="78" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="20" font-weight="bold" fill="url(#text-grad)" filter="url(#glow)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
+Full-Stack Software Engineer
+</text>
+<text x="310" y="108" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#94a3b8" opacity="0">
+<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze"/>
+React  |  Next.js  |  Flutter  |  Node.js
+</text>
+<text x="310" y="138" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="url(#sub-grad)" filter="url(#glow)" opacity="0">
+<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.5s" fill="freeze"/>
+Building Scalable SaaS &amp; ERP Systems
+</text>
+<text x="310" y="168" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="13" fill="#64748b" opacity="0">
+<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="6.5s" fill="freeze"/>
+Open to Internships &amp; Collaborations ✨
+</text>
+<rect x="505" y="66" width="2" height="18" rx="1" fill="#06b6d4" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" begin="0.5s" repeatCount="indefinite"/>
+</rect>
+<rect x="30" y="185" width="560" height="1" fill="url(#accent)" opacity="0.15"/>
+<text x="310" y="202" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="9" fill="#374151">🎓 SLIIT · 🇱🇰 Sri Lanka · ☁️ Docker &amp; Cloud</text>
+</svg>

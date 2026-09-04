@@ -7,10 +7,8 @@
 
 <br/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;Building+Scalable+SaaS+%26+ERP+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-</a>
+<!-- TYPING SVG (glassmorphism) -->
+<img src="./profile-3d-contrib/typing-animation.svg" width="620" alt="Full-Stack Software Engineer — React | Next.js | Flutter | Node.js" />
 
 <br/>
 
