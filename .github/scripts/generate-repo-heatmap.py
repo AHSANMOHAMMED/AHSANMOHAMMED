@@ -1,209 +1,145 @@
 #!/usr/bin/env python3
-"""Generate a GitHub repository contribution heatmap SVG."""
+"""Generate glassmorphism-styled repo activity heatmap SVG."""
 import json
-import urllib.request
 import os
-from datetime import datetime, timedelta
+import urllib.request
 
 USERNAME = os.environ.get("GITHUB_USER", "AHSANMOHAMMED")
 
 def fetch_repos(username):
-    repos = []
-    page = 1
-    while True:
-        url = f"https://api.github.com/users/{username}/repos?per_page=100&page={page}&sort=updated"
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req) as resp:
-            data = json.loads(resp.read())
-        if not data: break
-        repos.extend(data)
-        page += 1
-        if len(data) < 100: break
-    return repos
+    try:
+        req = urllib.request.Request(
+            f"https://api.github.com/users/{username}/repos?per_page=100&sort=updated",
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
+        return json.loads(urllib.request.urlopen(req, timeout=15).read())
+    except:
+        return []
 
-def fetch_contributions(username):
-    url = f"https://github-contributions-api.jogruber.de/v4/{username}"
-    with urllib.request.urlopen(url) as resp:
-        return json.loads(resp.read()).get("contributions", [])
+repos = fetch_repos(USERNAME)
+repos.sort(key=lambda x: x.get('updated_at', ''), reverse=True)
+repos = repos[:12]
 
-def lerp(c1, c2, t):
-    r1,g1,b1 = int(c1[1:3],16), int(c1[3:5],16), int(c1[5:7],16)
-    r2,g2,b2 = int(c2[1:3],16), int(c2[3:5],16), int(c2[5:7],16)
-    return f"#{int(r1+(r2-r1)*t):02x}{int(g1+(g2-g1)*t):02x}{int(b1+(b2-b1)*t):02x}"
-
-LANG_COLORS = {
-    "TypeScript": "#3178C6", "JavaScript": "#F7DF1E", "Python": "#3776AB",
-    "Dart": "#0175C2", "HTML": "#E34F26", "CSS": "#1572B6", "Java": "#ED8B00",
-    "Kotlin": "#7F52FF", "Swift": "#F05138", "Go": "#00ADD8", "Ruby": "#CC342D",
-    "PHP": "#4F5D95", "C++": "#F34B7D", "C": "#555555", "Shell": "#89e051",
-    "Vue": "#41B883", "Svelte": "#FF3E00", "Rust": "#DEA584", "Scala": "#DC322F",
-    "Elixir": "#6E4A7E", "Haskell": "#5e5086", "Lua": "#000080",
-    "Jupyter Notebook": "#DA5B0B", "MDX": "#FCB32C",
+lang_colors = {
+    "TypeScript": "#3178C6", "JavaScript": "#F7DF1E", "Python": "#3572A5",
+    "Dart": "#0175C2", "HTML": "#E34F26", "CSS": "#1572B6", "Java": "#B07219",
+    "Kotlin": "#A97BFF", "Shell": "#89E051", "Unknown": "#8b949e",
 }
 
-def get_color_for_lang(lang):
-    return LANG_COLORS.get(lang, "#6e7681")
+def esc(s):
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-def calc_activity_score(repo):
-    """Calculate activity score from stars, forks, open issues, and recency."""
-    stars = repo.get("stargazers_count", 0)
-    forks = repo.get("forks_count", 0)
-    issues = repo.get("open_issues_count", 0)
-    updated = repo.get("updated_at", "2024-01-01")
-    pushed = repo.get("pushed_at", "2024-01-01")
-    
-    # Recency score (days since last push)
+svg_w = 600
+row_h = 78
+header_h = 80
+footer_h = 50
+total_h = header_h + len(repos) * row_h + footer_h
+
+lines = []
+lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_w} {total_h}" width="{svg_w}" height="{total_h}">')
+lines.append('<defs>')
+# Glassmorphism filters
+lines.append('<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a0e14"/><stop offset="50%" stop-color="#111820"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>')
+lines.append('<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#06b6d4"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>')
+lines.append('<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient>')
+# Glassmorphism blur filter
+lines.append('<filter id="glass-blur"><feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur"/><feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.18 0" result="glass"/></filter>')
+# Glow effect
+lines.append('<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>')
+lines.append('<filter id="soft-glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>')
+# Shadow
+lines.append('<filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/></filter>')
+lines.append('</defs>')
+
+# Background
+lines.append(f'<rect width="{svg_w}" height="{total_h}" fill="url(#bg)" rx="16"/>')
+
+# Animated background blobs for glassmorphism depth
+lines.append(f'<circle cx="100" cy="100" r="120" fill="#06b6d4" opacity="0.04"><animate attributeName="cx" values="100;120;100" dur="8s" repeatCount="indefinite"/></circle>')
+lines.append(f'<circle cx="{svg_w-100}" cy="{total_h-100}" r="100" fill="#8b5cf6" opacity="0.04"><animate attributeName="cy" values="{total_h-100};{total_h-120};{total_h-100}" dur="10s" repeatCount="indefinite"/></circle>')
+lines.append(f'<circle cx="{svg_w//2}" cy="{total_h//2}" r="150" fill="#3b82f6" opacity="0.02"><animate attributeName="r" values="150;170;150" dur="12s" repeatCount="indefinite"/></circle>')
+
+# Top accent line with glow
+lines.append(f'<rect x="0" y="0" width="{svg_w}" height="3" rx="1.5" fill="url(#accent)" filter="url(#soft-glow)"/>')
+
+# Title with glow
+lines.append(f'<text x="{svg_w//2}" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#06b6d4" filter="url(#glow)">📦 Repository Activity</text>')
+lines.append(f'<text x="{svg_w//2}" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#64748b">{USERNAME} — {len(repos)} recent repositories</text>')
+
+intensity_colors = [
+    ("#064e3b", "#065f46"),
+    ("#047857", "#059669"),
+    ("#10b981", "#34d399"),
+    ("#06b6d4", "#22d3ee"),
+    ("#8b5cf6", "#a78bfa"),
+    ("#f59e0b", "#fbbf24"),
+]
+
+max_updated = max((r.get('updated_at', '') for r in repos), default='2024-01-01')
+
+for idx, repo in enumerate(repos):
+    y = header_h + idx * row_h
+    name = repo.get('name', 'unknown')
+    if len(name) > 28:
+        name = name[:26] + "…"
+    desc = repo.get('description', '') or ''
+    if len(desc) > 55:
+        desc = desc[:53] + "…"
+    lang = repo.get('language') or 'Unknown'
+    lang_color = lang_colors.get(lang, "#8b949e")
+    stars = repo.get('stargazers_count', 0)
+    forks = repo.get('forks_count', 0)
+    updated = (repo.get('updated_at', '')[:10])
+
+    updated_ts = repo.get('updated_at', '2024-01-01T00:00:00Z')
     try:
-        last_push = datetime.strptime(pushed[:10], "%Y-%m-%d")
-        days_ago = (datetime.now() - last_push).days
-        recency = max(0, 100 - days_ago)
+        days_ago = idx * 7
     except:
-        recency = 0
+        days_ago = 30
+    intensity = min(max(0, 1 - days_ago / 90), 1.0)
+
+    color_idx = min(int(intensity * (len(intensity_colors) - 1)), len(intensity_colors) - 1)
+    c1, c2 = intensity_colors[color_idx]
+
+    # Glassmorphism card: frosted glass background
+    card_x, card_y, card_w, card_h = 14, y+4, svg_w-28, row_h-8
+    lines.append(f'<rect x="{card_x}" y="{card_y}" width="{card_w}" height="{card_h}" rx="12" fill="{c1}" fill-opacity="0.2" stroke="rgba(255,255,255,0.08)" stroke-width="1" filter="url(#shadow)"/>')
+    # Inner highlight (glass reflection)
+    lines.append(f'<rect x="{card_x}" y="{card_y}" width="{card_w}" height="{card_h//2}" rx="12" fill="rgba(255,255,255,0.03)"/>')
     
-    return stars * 10 + forks * 5 + issues * 2 + recency
+    # Activity bar with glass effect
+    bar_w = int(8 + intensity * 36)
+    lines.append(f'<rect x="{card_x+8}" y="{card_y+8}" width="{bar_w}" height="{card_h-16}" rx="6" fill="{c2}" opacity="0.7" filter="url(#glow)"/>')
 
-def generate_heatmap(repos, contributions, username):
-    # Sort repos by activity score
-    for r in repos:
-        r["_score"] = calc_activity_score(r)
-    repos.sort(key=lambda r: r["_score"], reverse=True)
-    
-    # Take top repos
-    top_repos = [r for r in repos if not r.get("fork", False)][:20]
-    max_score = max((r["_score"] for r in top_repos), default=1)
-    
-    # Contribution stats
-    total_contribs = sum(c.get("count", 0) for c in contributions)
-    
-    # Colors for heatmap intensity
-    def heat_color(score, max_s):
-        t = min(score / max(max_s, 1), 1.0)
-        if t < 0.2: return "#161b22", "#0d1117"
-        if t < 0.4: return "#0e4429", "#1a5c35"
-        if t < 0.6: return "#006d32", "#26a641"
-        if t < 0.8: return "#26a641", "#39d353"
-        return "#39d353", "#22d3ee"
+    # Repo name
+    lines.append(f'<text x="{card_x+20+bar_w}" y="{card_y+22}" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#60a5fa" filter="url(#glow)">{esc(name)}</text>')
 
-    # Layout
-    svg_w, svg_h = 820, 520
-    s = []
-    s.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {svg_w} {svg_h}" width="{svg_w}" height="{svg_h}">')
-    s.append('<defs>')
-    s.append('<linearGradient id="hbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/></linearGradient>')
-    s.append('<filter id="hg"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>')
-    s.append('</defs>')
+    # Description
+    if desc:
+        lines.append(f'<text x="{card_x+20+bar_w}" y="{card_y+40}" font-family="Arial,sans-serif" font-size="10" fill="#94a3b8">{esc(desc)}</text>')
 
-    s.append(f'<rect width="{svg_w}" height="{svg_h}" fill="url(#hbg)" rx="12"/>')
+    # Language badge (glass pill)
+    lang_x = card_x + 20 + bar_w
+    lang_y = card_y + 50 if desc else card_y + 44
+    badge_w = len(lang) * 7 + 24
+    lines.append(f'<rect x="{lang_x-4}" y="{lang_y-12}" width="{badge_w}" height="18" rx="9" fill="rgba(255,255,255,0.05)" stroke="{lang_color}" stroke-opacity="0.4" stroke-width="1"/>')
+    lines.append(f'<circle cx="{lang_x+6}" cy="{lang_y-3}" r="3.5" fill="{lang_color}"/>')
+    lines.append(f'<text x="{lang_x+16}" y="{lang_y}" font-family="Arial,sans-serif" font-size="10" fill="#d1d5db">{esc(lang)}</text>')
 
-    # Title
-    s.append(f'<text x="20" y="28" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="16" font-weight="bold">📦 Repository Activity Heatmap</text>')
-    s.append(f'<text x="20" y="44" fill="#8b949e" font-family="Verdana,sans-serif" font-size="10">{username} — {len(repos)} repos • {total_contribs} total contributions</text>')
+    if stars > 0:
+        lines.append(f'<text x="{lang_x+badge_w+10}" y="{lang_y}" font-family="Arial,sans-serif" font-size="10" fill="#fbbf24" filter="url(#glow)">⭐ {stars}</text>')
 
-    # === HEATMAP GRID ===
-    # 4 columns x 5 rows of repo cards
-    cols, rows = 2, 10
-    card_w, card_h = 380, 38
-    card_gap_x, card_gap_y = 12, 6
-    start_x, start_y = 20, 60
+    # Date
+    lines.append(f'<text x="{card_x+card_w-12}" y="{card_y+22}" text-anchor="end" font-family="Arial,sans-serif" font-size="9" fill="#475569">{updated}</text>')
 
-    for i, repo in enumerate(top_repos[:cols*rows]):
-        row = i // cols
-        col = i % cols
-        
-        x = start_x + col * (card_w + card_gap_x)
-        y = start_y + row * (card_h + card_gap_y)
-        
-        score = repo["_score"]
-        name = repo.get("name", "unknown")
-        lang = repo.get("language") or "Unknown"
-        stars = repo.get("stargazers_count", 0)
-        forks = repo.get("forks_count", 0)
-        issues = repo.get("open_issues_count", 0)
-        desc = (repo.get("description") or "")[:45]
-        pushed = repo.get("pushed_at", "")[:10]
-        is_private = repo.get("private", False)
-        
-        heat, heat_dark = heat_color(score, max_score)
-        lang_color = get_color_for_lang(lang)
-        
-        # Intensity bar (left edge)
-        intensity = min(score / max(max_score, 1), 1.0)
-        bar_h = card_h * intensity
-        bar_y = y + card_h - bar_h
-        s.append(f'<rect x="{x}" y="{bar_y}" width="4" height="{bar_h}" fill="{heat}" rx="2">')
-        s.append(f'<animate attributeName="height" values="0;{bar_h}" dur="0.8s" begin="{i*0.05}s" fill="freeze"/>')
-        s.append(f'<animate attributeName="y" values="{y+card_h};{bar_y}" dur="0.8s" begin="{i*0.05}s" fill="freeze"/>')
-        s.append('</rect>')
-        
-        # Card background
-        s.append(f'<rect x="{x+6}" y="{y}" width="{card_w-6}" height="{card_h}" fill="{heat_dark}" stroke="{heat}" stroke-width="0.5" rx="4" opacity="0.8">')
-        s.append(f'<animate attributeName="opacity" values="0;0.8" dur="0.5s" begin="{i*0.05}s" fill="freeze"/>')
-        s.append('</rect>')
-        
-        # Repo name
-        name_display = name[:22] + ("..." if len(name) > 22 else "")
-        s.append(f'<text x="{x+14}" y="{y+15}" fill="#58a6ff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold">')
-        if is_private: name_display = "🔒 " + name_display
-        s.append(f'{name_display}</text>')
-        
-        # Description
-        if desc:
-            s.append(f'<text x="{x+14}" y="{y+28}" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">{desc}</text>')
-        
-        # Language dot + name
-        dot_x = x + card_w - 130
-        s.append(f'<circle cx="{dot_x}" cy="{y+12}" r="4" fill="{lang_color}"/>')
-        s.append(f'<text x="{dot_x+8}" y="{y+15}" fill="#e6edf3" font-family="Verdana,sans-serif" font-size="9">{lang}</text>')
-        
-        # Stats badges
-        stats_x = x + card_w - 100
-        s.append(f'<text x="{stats_x}" y="{y+15}" fill="#FFD700" font-family="Verdana,sans-serif" font-size="9">⭐{stars}</text>')
-        s.append(f'<text x="{stats_x+45}" y="{y+15}" fill="#06b6d4" font-family="Verdana,sans-serif" font-size="9">🍴{forks}</text>')
-        
-        # Last updated
-        if pushed:
-            s.append(f'<text x="{x+card_w-12}" y="{y+15}" text-anchor="end" fill="#484f58" font-family="Verdana,sans-serif" font-size="7">{pushed}</text>')
+# Footer
+footer_y = total_h - 30
+lines.append(f'<rect x="14" y="{footer_y-16}" width="{svg_w-28}" height="1" fill="url(#accent)" opacity="0.2"/>')
+lines.append(f'<text x="{svg_w//2}" y="{footer_y+8}" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#475569">Activity: Brighter colors = More recent · Glassmorphism UI ✨</text>')
 
-    # === LEGEND ===
-    ly = start_y + rows * (card_h + card_gap_y) + 15
-    
-    # Heatmap legend
-    s.append(f'<text x="20" y="{ly}" fill="#8b949e" font-family="Verdana,sans-serif" font-size="10">Activity Level:</text>')
-    legend_colors = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
-    legend_labels = ["None", "Low", "Medium", "High", "Very High"]
-    for i, (c, l) in enumerate(zip(legend_colors, legend_labels)):
-        lx = 120 + i * 70
-        s.append(f'<rect x="{lx}" y="{ly-9}" width="14" height="14" fill="{c}" rx="2" stroke="#30363d" stroke-width="0.5"/>')
-        s.append(f'<text x="{lx+18}" y="{ly+2}" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">{l}</text>')
-    
-    # Language color legend
-    s.append(f'<text x="20" y="{ly+22}" fill="#8b949e" font-family="Verdana,sans-serif" font-size="10">Languages:</text>')
-    used_langs = list(dict.fromkeys(r.get("language", "Unknown") for r in top_repos[:10] if r.get("language")))
-    for i, lang in enumerate(used_langs[:8]):
-        lx = 100 + i * 85
-        s.append(f'<circle cx="{lx}" cy="{ly+18}" r="4" fill="{get_color_for_lang(lang)}"/>')
-        s.append(f'<text x="{lx+8}" y="{ly+21}" fill="#8b949e" font-family="Verdana,sans-serif" font-size="8">{lang}</text>')
+lines.append('</svg>')
 
-    # Stats summary
-    s.append(f'<text x="20" y="{ly+42}" fill="#484f58" font-family="Verdana,sans-serif" font-size="8">📊 Sorted by activity score (stars × 10 + forks × 5 + issues × 2 + recency) • Data from GitHub API</text>')
-    
-    # Live indicator
-    s.append(f'<text x="{svg_w-20}" y="{ly+42}" text-anchor="end" fill="#06b6d4" font-family="Verdana,sans-serif" font-size="8">● live<animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/></text>')
-
-    s.append('</svg>')
-    return '\n'.join(s)
-
-if __name__ == "__main__":
-    print(f"Fetching repos for {USERNAME}...")
-    repos = fetch_repos(USERNAME)
-    print(f"Got {len(repos)} repos")
-    
-    print(f"Fetching contributions...")
-    contributions = fetch_contributions(USERNAME)
-    print(f"Got {len(contributions)} days")
-    
-    svg = generate_heatmap(repos, contributions, USERNAME)
-    out = "profile-3d-contrib/repo-heatmap.svg"
-    with open(out, "w") as f:
-        f.write(svg)
-    print(f"Generated: {out} ({len(svg)} bytes)")
+output_path = "/Users/ahsan/Documents/AHSANMOHAMMED-main/profile-3d-contrib/repo-heatmap.svg"
+with open(output_path, 'w') as f:
+    f.write('\n'.join(lines))
+print(f"✅ Glassmorphism repo-heatmap.svg — {len(repos)} repos")
